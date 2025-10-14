@@ -29,7 +29,7 @@ export async function handler(event) {
     const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
     // Ton dépôt GitHub et fichier à modifier
-    const REPO = "meganus2000/event-links";
+    const REPO = "smhslivestream/event-links";
     const FILE_PATH = "liens.json";
 
     // Étape 1 — Lire le fichier existant depuis GitHub
