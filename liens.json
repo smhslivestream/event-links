@@ -1,4 +1,24 @@
 {
-  "current_event": null,
+  "current_event": {
+    "event_title": "asdfa",
+    "days": [
+      {
+        "date": "asfd",
+        "links": {
+          "Court 1": "asfd",
+          "Court 2": "asfd"
+        },
+        "label": "Invalid date"
+      },
+      {
+        "date": "asfd",
+        "links": {
+          "Court 1": "asfd",
+          "Court 2": "asf"
+        },
+        "label": "Invalid date"
+      }
+    ]
+  },
   "past_events": []
 }
