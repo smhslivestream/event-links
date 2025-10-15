@@ -98,8 +98,9 @@
       });
 
       const result = await res.text();
-      document.getElementById('status').innerText = result.includes("Success") ? "✅ Update complete!" : "⚠️ Something went wrong.";
+      document.getElementById('status').innerText = result.includes("Success") ? "✅ Update complete!" : "⚠️ Something went wrong." + result;
     });
   </script>
 </body>
+
 </html>
