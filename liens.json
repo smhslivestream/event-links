@@ -1,24 +1,46 @@
 {
   "current_event": {
-    "event_title": "asdfa",
+    "event_title": "SMHS Junior A Boys Volleyball Home Tournament",
     "days": [
       {
-        "date": "asfd",
+        "date": "2025-10-22",
         "links": {
-          "Court 1": "asfd",
-          "Court 2": "asfd"
+          "Court 1": "www.youtube.com",
+          "Court 2": "www.youtube.com"
         },
-        "label": "Invalid date"
+        "label": "Wednesday,, Oct 22nd"
       },
       {
-        "date": "asfd",
+        "date": "2025-10-23",
         "links": {
-          "Court 1": "asfd",
-          "Court 2": "asf"
+          "Court 1": "www.youtube.com"
         },
-        "label": "Invalid date"
+        "label": "Thursday,, Oct 23rd"
       }
     ]
   },
-  "past_events": []
+  "past_events": [
+    {
+      "archived_at": "2025-10-17T03:20:19.298Z",
+      "event_title": "asdfa",
+      "days": [
+        {
+          "date": "asfd",
+          "links": {
+            "Court 1": "asfd",
+            "Court 2": "asfd"
+          },
+          "label": "Invalid date"
+        },
+        {
+          "date": "asfd",
+          "links": {
+            "Court 1": "asfd",
+            "Court 2": "asf"
+          },
+          "label": "Invalid date"
+        }
+      ]
+    }
+  ]
 }
