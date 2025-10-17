@@ -1,10 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SMHS – Update Livestream Links</title>
-  <style>
+  <style>-
     body {
       font-family: system-ui, sans-serif;
       background: #f6f6f6;
@@ -40,6 +41,7 @@
 </head>
 <body>
   <h1>SMHS – Update livestream links</h1>
+  <h4 align="left">Please input your tournament info. Leave boxes blank if unused.</h4>
   <form id="updateForm">
     <label>Event title:</label>
     <input type="text" id="eventTitle" placeholder="Tournament name" required>
@@ -104,3 +106,374 @@
 </body>
 
 </html>
+ChatGPT said:
+
+Perfect — you want to extend this form to:
+✅ include a third date (Day 3)
+✅ include a third court per day
+✅ allow custom court names (so you can rename “Court 1”, “Court 2”, etc.)
+
+Here’s a clean and complete version of your form that includes all of that.
+It keeps your same look and logic, just expanded and improved for flexibility.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SMHS – Update Livestream Links</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f6f6f6;
+      padding: 40px;
+      text-align: center;
+    }
+    form {
+      display: inline-block;
+      text-align: left;
+      background: white;
+      padding: 30px 40px;
+      border-radius: 10px;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+      width: 380px;
+    }
+    input, button {
+      width: 100%;
+      padding: 8px;
+      margin: 5px 0 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      background: #2b7cff;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #1a5fd1;
+    }
+  </style>
+</head>
+<body>
+  <h1>SMHS – Update Livestream Links</h1>
+
+  <form id="updateForm">
+    <label>Event title:</label>
+    <input type="text" id="eventTitle" placeholder="Tournament name" required>
+
+    <hr>
+    <strong>Day 1</strong>
+    <label>Date (YYYY-MM-DD):</label>
+    <input type="text" id="day1Date" placeholder="2025-10-10" required>
+
+    <label>Court 1 name:</label>
+    <input type="text" id="day1Court1Name" placeholder="Court 1" required>
+    <label>Court 1 URL:</label>
+    <input type="text" id="day1Court1">
+
+    <label>Court 2 name:</label>
+    <input type="text" id="day1Court2Name" placeholder="Court 2" required>
+    <label>Court 2 URL:</label>
+    <input type="text" id="day1Court2">
+
+    <label>Court 3 name:</label>
+    <input type="text" id="day1Court3Name" placeholder="Court 3">
+    <label>Court 3 URL:</label>
+    <input type="text" id="day1Court3">
+
+    <hr>
+    <strong>Day 2</strong>
+    <label>Date (YYYY-MM-DD):</label>
+    <input type="text" id="day2Date" placeholder="2025-10-11" required>
+
+    <label>Court 1 name:</label>
+    <input type="text" id="day2Court1Name" placeholder="Court 1" required>
+    <label>Court 1 URL:</label>
+    <input type="text" id="day2Court1">
+
+    <label>Court 2 name:</label>
+    <input type="text" id="day2Court2Name" placeholder="Court 2" required>
+    <label>Court 2 URL:</label>
+    <input type="text" id="day2Court2">
+
+    <label>Court 3 name:</label>
+    <input type="text" id="day2Court3Name" placeholder="Court 3">
+    <label>Court 3 URL:</label>
+    <input type="text" id="day2Court3">
+
+    <hr>
+    <strong>Day 3</strong>
+    <label>Date (YYYY-MM-DD):</label>
+    <input type="text" id="day3Date" placeholder="2025-10-12" required>
+
+    <label>Court 1 name:</label>
+    <input type="text" id="day3Court1Name" placeholder="Court 1" required>
+    <label>Court 1 URL:</label>
+    <input type="text" id="day3Court1">
+
+    <label>Court 2 name:</label>
+    <input type="text" id="day3Court2Name" placeholder="Court 2" required>
+    <label>Court 2 URL:</label>
+    <input type="text" id="day3Court2">
+
+    <label>Court 3 name:</label>
+    <input type="text" id="day3Court3Name" placeholder="Court 3">
+    <label>Court 3 URL:</label>
+    <input type="text" id="day3Court3">
+
+    <button type="submit">Update site</button>
+  </form>
+
+  <p id="status"></p>
+
+  <script>
+    document.getElementById('updateForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      document.getElementById('status').innerText = "Updating...";
+
+      // Helper function for one day's data
+      function getDayData(dayNum) {
+        const date = document.getElementById(`day${dayNum}Date`).value;
+        const links = {};
+
+        for (let i = 1; i <= 3; i++) {
+          const name = document.getElementById(`day${dayNum}Court${i}Name`).value.trim();
+          const url = document.getElementById(`day${dayNum}Court${i}`).value.trim();
+          if (name && url) {
+            links[name] = url;
+          }
+        }
+        return { date, links };
+      }
+
+      const payload = {
+        event_title: document.getElementById('eventTitle').value,
+        days: [getDayData(1), getDayData(2), getDayData(3)]
+      };
+
+      try {
+        const res = await fetch('/.netlify/functions/update_links', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+
+        const result = await res.text();
+        document.getElementById('status').innerText =
+          result.includes("Success") ? "✅ Update complete!" : "⚠️ Something went wrong: " + result;
+      } catch (err) {
+        document.getElementById('status').innerText = "⚠️ Network error: " + err.message;
+      }
+    });
+  </script>
+</body>
+</html>
+
+✅ What’s new:
+
+    3 full days (day1, day2, day3)
+
+    3 courts per day, each with:
+
+        a custom court name (Court 1 name)
+
+        a URL
+
+    The script now dynamically builds the links object so that only filled-in courts are included.
+
+    Still sends a clean JSON payload to your Netlify function.
+
+Would you like me to make the court name fields optional (defaulting to “Court 1”, “Court 2”, etc., if left blank)?
+You said:
+yes, and also arrange the code so if court 2 and 3 links are empty, date 2 and 3 also if empty they don't parse. Also add a clear button.
+ChatGPT said:
+
+Perfect — you want:
+✅ court name fields to be optional (default to “Court 1”, “Court 2”, etc.)
+✅ if a court’s link or entire day is empty, that section won’t be added to the payload
+✅ a “Clear Form” button to reset everything
+
+Here’s your updated, optimized, and clean version — ready to use and copy-paste directly into your project:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SMHS – Update Livestream Links</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f6f6f6;
+      padding: 40px;
+      text-align: center;
+    }
+    form {
+      display: inline-block;
+      text-align: left;
+      background: white;
+      padding: 30px 40px;
+      border-radius: 10px;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+      width: 380px;
+    }
+    input, button {
+      width: 100%;
+      padding: 8px;
+      margin: 5px 0 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      background: #2b7cff;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #1a5fd1;
+    }
+    #clearBtn {
+      background: #ccc;
+      color: #333;
+    }
+    #clearBtn:hover {
+      background: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <h1>SMHS – Update Livestream Links</h1>
+
+  <form id="updateForm">
+    <label>Event title:</label>
+    <input type="text" id="eventTitle" placeholder="Tournament name" required>
+
+    <hr>
+    <strong>Day 1</strong>
+    <label>Date (YYYY-MM-DD):</label>
+    <input type="text" id="day1Date" placeholder="2025-10-10">
+
+    <label>Court 1 name:</label>
+    <input type="text" id="day1Court1Name" placeholder="Court 1">
+    <label>Court 1 URL:</label>
+    <input type="text" id="day1Court1">
+
+    <label>Court 2 name:</label>
+    <input type="text" id="day1Court2Name" placeholder="Court 2">
+    <label>Court 2 URL:</label>
+    <input type="text" id="day1Court2">
+
+    <label>Court 3 name:</label>
+    <input type="text" id="day1Court3Name" placeholder="Court 3">
+    <label>Court 3 URL:</label>
+    <input type="text" id="day1Court3">
+
+    <hr>
+    <strong>Day 2</strong>
+    <label>Date (YYYY-MM-DD):</label>
+    <input type="text" id="day2Date" placeholder="2025-10-11">
+
+    <label>Court 1 name:</label>
+    <input type="text" id="day2Court1Name" placeholder="Court 1">
+    <label>Court 1 URL:</label>
+    <input type="text" id="day2Court1">
+
+    <label>Court 2 name:</label>
+    <input type="text" id="day2Court2Name" placeholder="Court 2">
+    <label>Court 2 URL:</label>
+    <input type="text" id="day2Court2">
+
+    <label>Court 3 name:</label>
+    <input type="text" id="day2Court3Name" placeholder="Court 3">
+    <label>Court 3 URL:</label>
+    <input type="text" id="day2Court3">
+
+    <hr>
+    <strong>Day 3</strong>
+    <label>Date (YYYY-MM-DD):</label>
+    <input type="text" id="day3Date" placeholder="2025-10-12">
+
+    <label>Court 1 name:</label>
+    <input type="text" id="day3Court1Name" placeholder="Court 1">
+    <label>Court 1 URL:</label>
+    <input type="text" id="day3Court1">
+
+    <label>Court 2 name:</label>
+    <input type="text" id="day3Court2Name" placeholder="Court 2">
+    <label>Court 2 URL:</label>
+    <input type="text" id="day3Court2">
+
+    <label>Court 3 name:</label>
+    <input type="text" id="day3Court3Name" placeholder="Court 3">
+    <label>Court 3 URL:</label>
+    <input type="text" id="day3Court3">
+
+    <button type="submit">Update site</button>
+    <button type="button" id="clearBtn">Clear form</button>
+  </form>
+
+  <p id="status"></p>
+
+  <script>
+    const form = document.getElementById('updateForm');
+    const statusEl = document.getElementById('status');
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      statusEl.innerText = "Updating...";
+
+      function getDayData(dayNum) {
+        const date = document.getElementById(`day${dayNum}Date`).value.trim();
+        const links = {};
+
+        for (let i = 1; i <= 3; i++) {
+          const nameInput = document.getElementById(`day${dayNum}Court${i}Name`);
+          const urlInput = document.getElementById(`day${dayNum}Court${i}`);
+          const url = urlInput.value.trim();
+          const name = nameInput.value.trim() || `Court ${i}`;
+          if (url) links[name] = url;
+        }
+
+        // only include this day if there’s at least one link and a date
+        if (date && Object.keys(links).length > 0) {
+          return { date, links };
+        }
+        return null;
+      }
+
+      const days = [getDayData(1), getDayData(2), getDayData(3)].filter(Boolean);
+
+      const payload = {
+        event_title: document.getElementById('eventTitle').value.trim(),
+        days
+      };
+
+      try {
+        const res = await fetch('/.netlify/functions/update_links', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+
+        const result = await res.text();
+        statusEl.innerText = result.includes("Success")
+          ? "✅ Update complete!"
+          : "⚠️ Something went wrong: " + result;
+      } catch (err) {
+        statusEl.innerText = "⚠️ Network error: " + err.message;
+      }
+    });
+
+    // Clear form button
+    document.getElementById('clearBtn').addEventListener('click', () => {
+      form.reset();
+      statusEl.innerText = "";
+    });
+  </script>
+</body>
+</html>
+
+✅
