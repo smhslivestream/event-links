@@ -7,5 +7,18 @@
         "Court 1": "http://www.google.ca"
       }
     }
-  ]
+  ],
+  "past_events": [],
+  "current_event": {
+    "event_title": "SMHS11",
+    "days": [
+      {
+        "date": "2025-10-12",
+        "links": {
+          "Court 1": "http://www.uni.ca"
+        },
+        "label": "Saturday, Oct 11"
+      }
+    ]
+  }
 }
