@@ -21,17 +21,37 @@
         }
       ],
       "archived_at": "2025-10-19T00:42:20.800Z"
+    },
+    {
+      "event_title": "SMHS Soccer",
+      "days": [
+        {
+          "date": "2025-10-12",
+          "links": {
+            "PMP": "http://www.youtube.com"
+          },
+          "label": "Saturday, Oct 11"
+        }
+      ],
+      "archived_at": "2025-10-19T00:44:56.606Z"
     }
   ],
   "current_event": {
-    "event_title": "SMHS Soccer",
+    "event_title": "Art Show",
     "days": [
       {
-        "date": "2025-10-12",
+        "date": "2026-01-01",
         "links": {
-          "PMP": "http://www.youtube.com"
+          "Art Room": "http://www.art.com"
         },
-        "label": "Saturday, Oct 11"
+        "label": "Wednesday, Dec 31"
+      },
+      {
+        "date": "2026-01-02",
+        "links": {
+          "Art Room": "http://www.art.com"
+        },
+        "label": "Thursday, Jan 1"
       }
     ]
   }
