@@ -67,17 +67,30 @@
         }
       ],
       "archived_at": "2025-10-19T00:54:51.752Z"
+    },
+    {
+      "event_title": "Music concert",
+      "days": [
+        {
+          "date": "2025-10-18",
+          "links": {
+            "Church": "http://music.com"
+          },
+          "label": "Invalid date"
+        }
+      ],
+      "archived_at": "2025-10-19T01:01:58.170Z"
     }
   ],
   "current_event": {
-    "event_title": "Music concert",
+    "event_title": "Eel River",
     "days": [
       {
-        "date": "2025-10-18",
+        "date": "2025-10-09",
         "links": {
-          "Church": "http://music.com"
+          "Court 1": "http://www.erc.ca"
         },
-        "label": "Invalid date"
+        "label": "Wednesday, Oct 8, 2025"
       }
     ]
   }
