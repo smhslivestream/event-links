@@ -34,24 +34,37 @@
         }
       ],
       "archived_at": "2025-10-19T00:44:56.606Z"
+    },
+    {
+      "event_title": "Art Show",
+      "days": [
+        {
+          "date": "2026-01-01",
+          "links": {
+            "Art Room": "http://www.art.com"
+          },
+          "label": "Wednesday, Dec 31"
+        },
+        {
+          "date": "2026-01-02",
+          "links": {
+            "Art Room": "http://www.art.com"
+          },
+          "label": "Thursday, Jan 1"
+        }
+      ],
+      "archived_at": "2025-10-19T00:51:12.687Z"
     }
   ],
   "current_event": {
-    "event_title": "Art Show",
+    "event_title": "Soccer",
     "days": [
       {
-        "date": "2026-01-01",
+        "date": "2025-10-18",
         "links": {
-          "Art Room": "http://www.art.com"
+          "PMP": "www.youtube.com"
         },
-        "label": "Wednesday, Dec 31"
-      },
-      {
-        "date": "2026-01-02",
-        "links": {
-          "Art Room": "http://www.art.com"
-        },
-        "label": "Thursday, Jan 1"
+        "label": "Friday, Oct 17"
       }
     ]
   }
