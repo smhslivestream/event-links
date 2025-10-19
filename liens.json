@@ -54,17 +54,30 @@
         }
       ],
       "archived_at": "2025-10-19T00:51:12.687Z"
+    },
+    {
+      "event_title": "Soccer",
+      "days": [
+        {
+          "date": "2025-10-18",
+          "links": {
+            "PMP": "www.youtube.com"
+          },
+          "label": "Friday, Oct 17"
+        }
+      ],
+      "archived_at": "2025-10-19T00:54:51.752Z"
     }
   ],
   "current_event": {
-    "event_title": "Soccer",
+    "event_title": "Music concert",
     "days": [
       {
         "date": "2025-10-18",
         "links": {
-          "PMP": "www.youtube.com"
+          "Church": "http://music.com"
         },
-        "label": "Friday, Oct 17"
+        "label": "Invalid date"
       }
     ]
   }
