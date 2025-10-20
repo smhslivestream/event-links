@@ -1,36 +1,122 @@
 {
+  "event_title": "SMHS",
+  "days": [
+    {
+      "date": "2025-10-10",
+      "links": {
+        "Court 1": "http://www.google.ca"
+      }
+    }
+  ],
   "past_events": [
-    {},
     {
-      "archived_at": "2025-10-20T02:34:48.308Z"
-    },
-    {
-      "event_title": "Test 1",
+      "event_title": "SMHS11",
       "days": [
         {
-          "date": "2025-10-19",
+          "date": "2025-10-12",
           "links": {
-            "Court 1": "www.test.com",
-            "Court 2": "www.test2.com",
-            "Court 3": "www.test3.com"
+            "Court 1": "http://www.uni.ca"
           },
-          "label": "Saturday, Oct 18, 2025"
+          "label": "Saturday, Oct 11"
         }
       ],
-      "archived_at": "2025-10-20T02:35:57.855Z"
+      "archived_at": "2025-10-19T00:42:20.800Z"
+    },
+    {
+      "event_title": "SMHS Soccer",
+      "days": [
+        {
+          "date": "2025-10-12",
+          "links": {
+            "PMP": "http://www.youtube.com"
+          },
+          "label": "Saturday, Oct 11"
+        }
+      ],
+      "archived_at": "2025-10-19T00:44:56.606Z"
+    },
+    {
+      "event_title": "Art Show",
+      "days": [
+        {
+          "date": "2026-01-01",
+          "links": {
+            "Art Room": "http://www.art.com"
+          },
+          "label": "Wednesday, Dec 31"
+        },
+        {
+          "date": "2026-01-02",
+          "links": {
+            "Art Room": "http://www.art.com"
+          },
+          "label": "Thursday, Jan 1"
+        }
+      ],
+      "archived_at": "2025-10-19T00:51:12.687Z"
+    },
+    {
+      "event_title": "Soccer",
+      "days": [
+        {
+          "date": "2025-10-18",
+          "links": {
+            "PMP": "www.youtube.com"
+          },
+          "label": "Friday, Oct 17"
+        }
+      ],
+      "archived_at": "2025-10-19T00:54:51.752Z"
+    },
+    {
+      "event_title": "Music concert",
+      "days": [
+        {
+          "date": "2025-10-18",
+          "links": {
+            "Church": "http://music.com"
+          },
+          "label": "Invalid date"
+        }
+      ],
+      "archived_at": "2025-10-19T01:01:58.170Z"
+    },
+    {
+      "event_title": "Eel River",
+      "days": [
+        {
+          "date": "2025-10-09",
+          "links": {
+            "Court 1": "http://www.erc.ca"
+          },
+          "label": "Wednesday, Oct 8, 2025"
+        }
+      ],
+      "archived_at": "2025-10-20T02:03:04.904Z"
+    },
+    {
+      "event_title": "Eel River",
+      "days": [
+        {
+          "date": "2025-10-15",
+          "links": {
+            "Court 1": "www.erc.ca"
+          },
+          "label": "Tuesday, Oct 14, 2025"
+        }
+      ],
+      "archived_at": "2025-10-20T02:09:25.196Z"
     }
   ],
   "current_event": {
-    "event_title": "Test 2",
+    "event_title": "SMHS 222",
     "days": [
       {
-        "date": "2025-10-19",
+        "date": "2025-10-31",
         "links": {
-          "Court 1": "www.test.com",
-          "Court 2": "www.test2.com",
-          "Court 3": "www.test3.com"
+          "Court 1": "www.halloween.com"
         },
-        "label": "Saturday, Oct 18, 2025"
+        "label": "Thursday, Oct 30, 2025"
       }
     ]
   }
