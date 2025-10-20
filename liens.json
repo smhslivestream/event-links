@@ -174,17 +174,30 @@
         }
       ],
       "archived_at": "2025-10-20T04:57:41.755Z"
+    },
+    {
+      "event_title": "asf",
+      "days": [
+        {
+          "date": "2025-10-15",
+          "links": {
+            "Court 1": "12"
+          },
+          "label": "Tuesday, Oct 14, 2025"
+        }
+      ],
+      "archived_at": "2025-10-20T14:43:24.774Z"
     }
   ],
   "current_event": {
-    "event_title": "asf",
+    "event_title": "Test2",
     "days": [
       {
-        "date": "2025-10-15",
+        "date": "2025-10-16",
         "links": {
-          "Court 1": "12"
+          "Court 1": "www.youtube.com"
         },
-        "label": "Tuesday, Oct 14, 2025"
+        "label": "Wednesday, Oct 15, 2025"
       }
     ]
   }
