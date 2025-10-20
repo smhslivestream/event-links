@@ -1,10 +1,22 @@
 {
   "past_events": [
+    {},
     {
-    
+      "archived_at": "2025-10-20T02:34:48.308Z"
     }
   ],
   "current_event": {
-
+    "event_title": "Test 1",
+    "days": [
+      {
+        "date": "2025-10-19",
+        "links": {
+          "Court 1": "www.test.com",
+          "Court 2": "www.test2.com",
+          "Court 3": "www.test3.com"
+        },
+        "label": "Saturday, Oct 18, 2025"
+      }
+    ]
   }
 }
