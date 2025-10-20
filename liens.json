@@ -93,17 +93,30 @@
         }
       ],
       "archived_at": "2025-10-20T02:03:04.904Z"
+    },
+    {
+      "event_title": "Eel River",
+      "days": [
+        {
+          "date": "2025-10-15",
+          "links": {
+            "Court 1": "www.erc.ca"
+          },
+          "label": "Tuesday, Oct 14, 2025"
+        }
+      ],
+      "archived_at": "2025-10-20T02:09:25.196Z"
     }
   ],
   "current_event": {
-    "event_title": "Eel River",
+    "event_title": "SMHS 222",
     "days": [
       {
-        "date": "2025-10-15",
+        "date": "2025-10-31",
         "links": {
-          "Court 1": "www.erc.ca"
+          "Court 1": "www.halloween.com"
         },
-        "label": "Tuesday, Oct 14, 2025"
+        "label": "Thursday, Oct 30, 2025"
       }
     ]
   }
