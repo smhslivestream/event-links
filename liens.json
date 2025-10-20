@@ -148,17 +148,30 @@
         }
       ],
       "archived_at": "2025-10-20T03:18:46.386Z"
+    },
+    {
+      "event_title": "asdf",
+      "days": [
+        {
+          "date": "2025-10-08",
+          "links": {
+            "assf": "sfas"
+          },
+          "label": "Tuesday, Oct 7, 2025"
+        }
+      ],
+      "archived_at": "2025-10-20T03:27:35.700Z"
     }
   ],
   "current_event": {
     "event_title": "asdf",
     "days": [
       {
-        "date": "2025-10-08",
+        "date": "2025-10-16",
         "links": {
-          "assf": "sfas"
+          "Court 1": "asdf"
         },
-        "label": "Tuesday, Oct 7, 2025"
+        "label": "Wednesday, Oct 15, 2025"
       }
     ]
   }
