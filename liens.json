@@ -106,17 +106,46 @@
         }
       ],
       "archived_at": "2025-10-20T02:09:25.196Z"
+    },
+    {
+      "event_title": "SMHS 222",
+      "days": [
+        {
+          "date": "2025-10-31",
+          "links": {
+            "Court 1": "www.halloween.com"
+          },
+          "label": "Thursday, Oct 30, 2025"
+        }
+      ],
+      "archived_at": "2025-10-20T03:02:25.819Z"
     }
   ],
   "current_event": {
-    "event_title": "SMHS 222",
+    "event_title": "Balmoral",
     "days": [
       {
-        "date": "2025-10-31",
+        "date": "2025-10-16",
         "links": {
-          "Court 1": "www.halloween.com"
+          "Court 1": "www.adrienlandry.ca",
+          "Court 2": "www.alpa",
+          "Court 3": "www.therese.com"
         },
-        "label": "Thursday, Oct 30, 2025"
+        "label": "Wednesday, Oct 15, 2025"
+      },
+      {
+        "date": "2025-10-21",
+        "links": {
+          "Court 1": "www.alpa.ca"
+        },
+        "label": "Monday, Oct 20, 2025"
+      },
+      {
+        "date": "2025-10-16",
+        "links": {
+          "Court 1": "www.alpa.ca"
+        },
+        "label": "Wednesday, Oct 15, 2025"
       }
     ]
   }
