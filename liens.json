@@ -1,13 +1,4 @@
 {
-  "event_title": "SMHS",
-  "days": [
-    {
-      "date": "2025-10-10",
-      "links": {
-        "Court 1": "http://www.google.ca"
-      }
-    }
-  ],
   "past_events": [
     {
       "event_title": "SMHS11",
