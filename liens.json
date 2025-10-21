@@ -203,9 +203,22 @@
     {
       "days": [],
       "archived_at": "2025-10-21T03:34:40.302Z"
+    },
+    {
+      "days": [],
+      "archived_at": "2025-10-21T16:10:06.392Z"
     }
   ],
   "current_event": {
-    "days": []
+    "event_title": "S'JS",
+    "days": [
+      {
+        "date": "2025-10-21",
+        "links": {
+          "w": "www"
+        },
+        "label": "Monday, Oct 20, 2025"
+      }
+    ]
   }
 }
