@@ -187,18 +187,22 @@
         }
       ],
       "archived_at": "2025-10-20T14:43:24.774Z"
+    },
+    {
+      "event_title": "Test2",
+      "days": [
+        {
+          "date": "2025-10-16",
+          "links": {
+            "Court 1": "www.youtube.com"
+          },
+          "label": "Wednesday, Oct 15, 2025"
+        }
+      ],
+      "archived_at": "2025-10-21T03:14:21.847Z"
     }
   ],
   "current_event": {
-    "event_title": "Test2",
-    "days": [
-      {
-        "date": "2025-10-16",
-        "links": {
-          "Court 1": "www.youtube.com"
-        },
-        "label": "Wednesday, Oct 15, 2025"
-      }
-    ]
+    "days": []
   }
 }
