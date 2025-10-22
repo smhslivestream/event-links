@@ -1,19 +1,6 @@
 {
   "past_events": [
     {
-      "event_title": "SMHS 222",
-      "days": [
-        {
-          "date": "2025-10-31",
-          "links": {
-            "Court 1": "www.halloween.com"
-          },
-          "label": "Thursday, Oct 30, 2025"
-        }
-      ],
-      "archived_at": "2025-10-20T03:02:25.819Z"
-    },
-    {
       "event_title": "Balmoral",
       "days": [
         {
