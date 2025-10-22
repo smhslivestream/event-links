@@ -160,31 +160,53 @@
         }
       ],
       "archived_at": "2025-10-22T15:37:58.635Z"
+    },
+    {
+      "event_title": "Kelly Smith Memorial Tournament (Basketball)",
+      "days": [
+        {
+          "date": "2024-11-28",
+          "links": {
+            "Main Gym": "https://youtube.com/live/loYgNVa-yVc?feature=share"
+          },
+          "label": "Wednesday, Nov 27, 2024"
+        },
+        {
+          "date": "2024-11-29",
+          "links": {
+            "Main Gym": "https://youtube.com/live/eSRIPusJ0DA?feature=share"
+          },
+          "label": "Thursday, Nov 28, 2024"
+        },
+        {
+          "date": "2024-11-30",
+          "links": {
+            "Main Gym": "https://youtube.com/live/vW8MjypC4wg?feature=share"
+          },
+          "label": "Friday, Nov 29, 2024"
+        }
+      ],
+      "archived_at": "2025-10-22T15:40:06.151Z"
     }
   ],
   "current_event": {
-    "event_title": "Kelly Smith Memorial Tournament (Basketball)",
+    "event_title": "École SMHS Senior A Boys/Girls Tournament (Volleyball)",
     "days": [
       {
-        "date": "2024-11-28",
+        "date": "2024-11-01",
         "links": {
-          "Main Gym": "https://youtube.com/live/loYgNVa-yVc?feature=share"
+          "Court 1 - Girls": "https://youtube.com/live/bViOd0W77VA?feature=share",
+          "Court 2 - Boys": "https://youtube.com/live/Ttostg6b6fI?feature=share"
         },
-        "label": "Wednesday, Nov 27, 2024"
+        "label": "Thursday, Oct 31, 2024"
       },
       {
-        "date": "2024-11-29",
+        "date": "2024-01-02",
         "links": {
-          "Main Gym": "https://youtube.com/live/eSRIPusJ0DA?feature=share"
+          "Court 1 - Girls": "https://youtube.com/live/dZGjVdosmyA?feature=share",
+          "Court 2 - Boys": "https://youtube.com/live/fnXD2ot7ks8?feature=share"
         },
-        "label": "Thursday, Nov 28, 2024"
-      },
-      {
-        "date": "2024-11-30",
-        "links": {
-          "Main Gym": "https://youtube.com/live/vW8MjypC4wg?feature=share"
-        },
-        "label": "Friday, Nov 29, 2024"
+        "label": "Monday, Jan 1, 2024"
       }
     ]
   }
