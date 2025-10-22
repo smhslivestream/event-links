@@ -1,19 +1,6 @@
 {
   "past_events": [
     {
-      "event_title": "Soccer",
-      "days": [
-        {
-          "date": "2025-10-18",
-          "links": {
-            "PMP": "www.youtube.com"
-          },
-          "label": "Friday, Oct 17"
-        }
-      ],
-      "archived_at": "2025-10-19T00:54:51.752Z"
-    },
-    {
       "event_title": "Music concert",
       "days": [
         {
