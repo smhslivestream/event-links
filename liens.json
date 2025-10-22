@@ -69,26 +69,48 @@
         }
       ],
       "archived_at": "2025-10-22T02:49:13.208Z"
+    },
+    {
+      "event_title": "SMHS Senior A Girls Tournament",
+      "days": [
+        {
+          "date": "2025-09-19",
+          "links": {
+            "Court 1": "https://youtube.com/live/XWfXjxkYbFE?feature=share",
+            "Court 2": "https://youtube.com/live/gVFlBhL7vgo?feature=share"
+          },
+          "label": "Thursday, Sep 18, 2025"
+        },
+        {
+          "date": "2025-09-20",
+          "links": {
+            "Court 1": "https://youtube.com/live/r37uen-3SVs?feature=share",
+            "Court 2": "https://youtube.com/live/dBiO5_p2wuQ?feature=share"
+          },
+          "label": "Friday, Sep 19, 2025"
+        }
+      ],
+      "archived_at": "2025-10-22T02:50:16.650Z"
     }
   ],
   "current_event": {
-    "event_title": "SMHS Senior A Girls Tournament",
+    "event_title": "Senior A Boys Tournament",
     "days": [
       {
-        "date": "2025-09-19",
+        "date": "2025-09-05",
         "links": {
-          "Court 1": "https://youtube.com/live/XWfXjxkYbFE?feature=share",
-          "Court 2": "https://youtube.com/live/gVFlBhL7vgo?feature=share"
+          "Court 1": "https://youtube.com/live/UHml1zuVeK8?feature=share",
+          "Court 2": "https://youtube.com/live/I5MtjcRuXLw?feature=share"
         },
-        "label": "Thursday, Sep 18, 2025"
+        "label": "Thursday, Sep 4, 2025"
       },
       {
-        "date": "2025-09-20",
+        "date": "2025-09-06",
         "links": {
-          "Court 1": "https://youtube.com/live/r37uen-3SVs?feature=share",
-          "Court 2": "https://youtube.com/live/dBiO5_p2wuQ?feature=share"
+          "Court 1": "https://youtube.com/live/HlAw6A0IpJw?feature=share",
+          "Court 2": "https://youtube.com/live/587pF8r3lFY?feature=share"
         },
-        "label": "Friday, Sep 19, 2025"
+        "label": "Friday, Sep 5, 2025"
       }
     ]
   }
