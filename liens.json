@@ -187,26 +187,48 @@
         }
       ],
       "archived_at": "2025-10-22T15:40:06.151Z"
+    },
+    {
+      "event_title": "École SMHS Senior A Boys/Girls Tournament (Volleyball)",
+      "days": [
+        {
+          "date": "2024-11-01",
+          "links": {
+            "Court 1 - Girls": "https://youtube.com/live/bViOd0W77VA?feature=share",
+            "Court 2 - Boys": "https://youtube.com/live/Ttostg6b6fI?feature=share"
+          },
+          "label": "Thursday, Oct 31, 2024"
+        },
+        {
+          "date": "2024-01-02",
+          "links": {
+            "Court 1 - Girls": "https://youtube.com/live/dZGjVdosmyA?feature=share",
+            "Court 2 - Boys": "https://youtube.com/live/fnXD2ot7ks8?feature=share"
+          },
+          "label": "Monday, Jan 1, 2024"
+        }
+      ],
+      "archived_at": "2025-10-22T15:41:14.611Z"
     }
   ],
   "current_event": {
-    "event_title": "École SMHS Senior A Boys/Girls Tournament (Volleyball)",
+    "event_title": "École SMHS Junior A Girls Volleyball Tournament",
     "days": [
       {
-        "date": "2024-11-01",
+        "date": "2024-10-18",
         "links": {
-          "Court 1 - Girls": "https://youtube.com/live/bViOd0W77VA?feature=share",
-          "Court 2 - Boys": "https://youtube.com/live/Ttostg6b6fI?feature=share"
+          "Court 1": "https://youtube.com/live/qmfLJMTgZcI?feature=share",
+          "Court 2": "https://youtube.com/live/T4ZQM9bV8Z0?feature=share"
         },
-        "label": "Thursday, Oct 31, 2024"
+        "label": "Thursday, Oct 17, 2024"
       },
       {
-        "date": "2024-01-02",
+        "date": "2024-10-19",
         "links": {
-          "Court 1 - Girls": "https://youtube.com/live/dZGjVdosmyA?feature=share",
-          "Court 2 - Boys": "https://youtube.com/live/fnXD2ot7ks8?feature=share"
+          "Court 1": "https://youtube.com/live/qFZ3rQ7-0p0?feature=share",
+          "Court 2": "https://youtube.com/live/HB27URzq5Bk?feature=share"
         },
-        "label": "Monday, Jan 1, 2024"
+        "label": "Friday, Oct 18, 2024"
       }
     ]
   }
