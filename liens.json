@@ -1,19 +1,6 @@
 {
   "past_events": [
     {
-      "event_title": "Music concert",
-      "days": [
-        {
-          "date": "2025-10-18",
-          "links": {
-            "Church": "http://music.com"
-          },
-          "label": "Invalid date"
-        }
-      ],
-      "archived_at": "2025-10-19T01:01:58.170Z"
-    },
-    {
       "event_title": "Eel River",
       "days": [
         {
