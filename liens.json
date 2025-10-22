@@ -14,19 +14,6 @@
       "archived_at": "2025-10-22T02:45:30.936Z"
     },
     {
-      "event_title": "Test A",
-      "days": [
-        {
-          "date": "2025-10-09",
-          "links": {
-            "1": "124124"
-          },
-          "label": "Wednesday, Oct 8, 2025"
-        }
-      ],
-      "archived_at": "2025-10-22T02:46:53.942Z"
-    },
-    {
       "event_title": "Junior Girls Tournament",
       "days": [
         {
