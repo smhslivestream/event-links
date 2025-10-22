@@ -1,19 +1,6 @@
 {
   "past_events": [
     {
-      "event_title": "asdf",
-      "days": [
-        {
-          "date": "2025-10-16",
-          "links": {
-            "Court 1": "asdf"
-          },
-          "label": "Wednesday, Oct 15, 2025"
-        }
-      ],
-      "archived_at": "2025-10-20T04:57:41.755Z"
-    },
-    {
       "event_title": "asf",
       "days": [
         {
