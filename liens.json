@@ -1,19 +1,6 @@
 {
   "past_events": [
     {
-      "event_title": "S'JS",
-      "days": [
-        {
-          "date": "2025-10-21",
-          "links": {
-            "w": "www"
-          },
-          "label": "Monday, Oct 20, 2025"
-        }
-      ],
-      "archived_at": "2025-10-22T02:45:30.936Z"
-    },
-    {
       "event_title": "Junior Girls Tournament",
       "days": [
         {
