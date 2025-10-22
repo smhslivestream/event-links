@@ -1,19 +1,6 @@
 {
   "past_events": [
     {
-      "event_title": "SMHS Soccer",
-      "days": [
-        {
-          "date": "2025-10-12",
-          "links": {
-            "PMP": "http://www.youtube.com"
-          },
-          "label": "Saturday, Oct 11"
-        }
-      ],
-      "archived_at": "2025-10-19T00:44:56.606Z"
-    },
-    {
       "event_title": "Art Show",
       "days": [
         {
