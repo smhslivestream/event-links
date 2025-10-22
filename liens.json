@@ -253,27 +253,32 @@
         }
       ],
       "archived_at": "2025-10-22T15:43:52.840Z"
+    },
+    {
+      "event_title": "École SMHS Sr B Girls Volleyball Home Tournament",
+      "days": [
+        {
+          "date": "2024-09-27",
+          "links": {
+            "Court 1": "https://youtube.com/live/i1QuOX2cx58?feature=share",
+            "Court 2": "https://youtube.com/live/7D_dksetC4I?feature=share"
+          },
+          "label": "Thursday, Sep 26, 2024"
+        },
+        {
+          "date": "2024-09-28",
+          "links": {
+            "Court 1": "https://youtube.com/live/1vvlngF7Cdc?feature=share",
+            "Court 2": "https://youtube.com/live/RMSL9sLOnmE?feature=share"
+          },
+          "label": "Friday, Sep 27, 2024"
+        }
+      ],
+      "archived_at": "2025-10-22T15:49:05.525Z"
     }
   ],
   "current_event": {
-    "event_title": "École SMHS Sr B Girls Volleyball Home Tournament",
-    "days": [
-      {
-        "date": "2024-09-27",
-        "links": {
-          "Court 1": "https://youtube.com/live/i1QuOX2cx58?feature=share",
-          "Court 2": "https://youtube.com/live/7D_dksetC4I?feature=share"
-        },
-        "label": "Thursday, Sep 26, 2024"
-      },
-      {
-        "date": "2024-09-28",
-        "links": {
-          "Court 1": "https://youtube.com/live/1vvlngF7Cdc?feature=share",
-          "Court 2": "https://youtube.com/live/RMSL9sLOnmE?feature=share"
-        },
-        "label": "Friday, Sep 27, 2024"
-      }
-    ]
+    "event_title": "Placeholder",
+    "days": []
   }
 }
