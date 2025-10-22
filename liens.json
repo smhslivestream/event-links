@@ -1,19 +1,6 @@
 {
   "past_events": [
     {
-      "event_title": "Test2",
-      "days": [
-        {
-          "date": "2025-10-16",
-          "links": {
-            "Court 1": "www.youtube.com"
-          },
-          "label": "Wednesday, Oct 15, 2025"
-        }
-      ],
-      "archived_at": "2025-10-21T03:14:21.847Z"
-    },
-    {
       "days": [],
       "archived_at": "2025-10-21T03:22:08.147Z"
     },
