@@ -100,31 +100,51 @@
         }
       ],
       "archived_at": "2025-10-22T14:44:16.292Z"
+    },
+    {
+      "event_title": "Senior A Boys Basketball Tournament",
+      "days": [
+        {
+          "date": "2025-02-06",
+          "links": {
+            "Main Gym": "https://youtube.com/live/a6UotlXu9Bo?feature=share"
+          },
+          "label": "Wednesday, Feb 5, 2025"
+        },
+        {
+          "date": "2025-02-07",
+          "links": {
+            "Main Gym": "https://youtube.com/live/0dlwk_b7NQU?feature=share"
+          },
+          "label": "Thursday, Feb 6, 2025"
+        },
+        {
+          "date": "2025-02-08",
+          "links": {
+            "Main Gym": "https://youtube.com/live/Nqcu4pi4ZCs?feature=share"
+          },
+          "label": "Friday, Feb 7, 2025"
+        }
+      ],
+      "archived_at": "2025-10-22T15:34:29.704Z"
     }
   ],
   "current_event": {
-    "event_title": "Senior A Boys Basketball Tournament",
+    "event_title": "Junior A Girls Basketball Tournament",
     "days": [
       {
-        "date": "2025-02-06",
+        "date": "2025-01-10",
         "links": {
-          "Main Gym": "https://youtube.com/live/a6UotlXu9Bo?feature=share"
+          "Main Gym": "https://youtube.com/live/U4X2BU3Tr3w?feature=share"
         },
-        "label": "Wednesday, Feb 5, 2025"
+        "label": "Thursday, Jan 9, 2025"
       },
       {
-        "date": "2025-02-07",
+        "date": "2025-01-11",
         "links": {
-          "Main Gym": "https://youtube.com/live/0dlwk_b7NQU?feature=share"
+          "Main Gym": "https://youtube.com/live/EeeLloSrN8M?feature=share"
         },
-        "label": "Thursday, Feb 6, 2025"
-      },
-      {
-        "date": "2025-02-08",
-        "links": {
-          "Main Gym": "https://youtube.com/live/Nqcu4pi4ZCs?feature=share"
-        },
-        "label": "Friday, Feb 7, 2025"
+        "label": "Friday, Jan 10, 2025"
       }
     ]
   }
