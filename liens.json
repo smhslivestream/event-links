@@ -1,35 +1,6 @@
 {
   "past_events": [
     {
-      "event_title": "Balmoral",
-      "days": [
-        {
-          "date": "2025-10-16",
-          "links": {
-            "Court 1": "www.adrienlandry.ca",
-            "Court 2": "www.alpa",
-            "Court 3": "www.therese.com"
-          },
-          "label": "Wednesday, Oct 15, 2025"
-        },
-        {
-          "date": "2025-10-21",
-          "links": {
-            "Court 1": "www.alpa.ca"
-          },
-          "label": "Monday, Oct 20, 2025"
-        },
-        {
-          "date": "2025-10-16",
-          "links": {
-            "Court 1": "www.alpa.ca"
-          },
-          "label": "Wednesday, Oct 15, 2025"
-        }
-      ],
-      "archived_at": "2025-10-20T03:18:46.386Z"
-    },
-    {
       "event_title": "asdf",
       "days": [
         {
