@@ -127,24 +127,37 @@
         }
       ],
       "archived_at": "2025-10-22T15:34:29.704Z"
+    },
+    {
+      "event_title": "Junior A Girls Basketball Tournament",
+      "days": [
+        {
+          "date": "2025-01-10",
+          "links": {
+            "Main Gym": "https://youtube.com/live/U4X2BU3Tr3w?feature=share"
+          },
+          "label": "Thursday, Jan 9, 2025"
+        },
+        {
+          "date": "2025-01-11",
+          "links": {
+            "Main Gym": "https://youtube.com/live/EeeLloSrN8M?feature=share"
+          },
+          "label": "Friday, Jan 10, 2025"
+        }
+      ],
+      "archived_at": "2025-10-22T15:36:16.148Z"
     }
   ],
   "current_event": {
-    "event_title": "Junior A Girls Basketball Tournament",
+    "event_title": "Christmas Spirit Concert",
     "days": [
       {
-        "date": "2025-01-10",
+        "date": "2024-12-17",
         "links": {
-          "Main Gym": "https://youtube.com/live/U4X2BU3Tr3w?feature=share"
+          "Lecture Theatre": "https://youtube.com/live/dLo32E5xDXs?feature=share"
         },
-        "label": "Thursday, Jan 9, 2025"
-      },
-      {
-        "date": "2025-01-11",
-        "links": {
-          "Main Gym": "https://youtube.com/live/EeeLloSrN8M?feature=share"
-        },
-        "label": "Friday, Jan 10, 2025"
+        "label": "Monday, Dec 16, 2024"
       }
     ]
   }
