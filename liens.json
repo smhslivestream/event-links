@@ -209,26 +209,48 @@
         }
       ],
       "archived_at": "2025-10-22T15:41:14.611Z"
+    },
+    {
+      "event_title": "École SMHS Junior A Girls Volleyball Tournament",
+      "days": [
+        {
+          "date": "2024-10-18",
+          "links": {
+            "Court 1": "https://youtube.com/live/qmfLJMTgZcI?feature=share",
+            "Court 2": "https://youtube.com/live/T4ZQM9bV8Z0?feature=share"
+          },
+          "label": "Thursday, Oct 17, 2024"
+        },
+        {
+          "date": "2024-10-19",
+          "links": {
+            "Court 1": "https://youtube.com/live/qFZ3rQ7-0p0?feature=share",
+            "Court 2": "https://youtube.com/live/HB27URzq5Bk?feature=share"
+          },
+          "label": "Friday, Oct 18, 2024"
+        }
+      ],
+      "archived_at": "2025-10-22T15:42:51.536Z"
     }
   ],
   "current_event": {
-    "event_title": "École SMHS Junior A Girls Volleyball Tournament",
+    "event_title": "École SMHS Junior Boys Volleyball Tournament",
     "days": [
       {
-        "date": "2024-10-18",
+        "date": "2024-10-04",
         "links": {
-          "Court 1": "https://youtube.com/live/qmfLJMTgZcI?feature=share",
-          "Court 2": "https://youtube.com/live/T4ZQM9bV8Z0?feature=share"
+          "Court 1": "https://youtube.com/live/kfaGG-7LcmA?feature=share",
+          "Court 2": "https://youtube.com/live/3phTzbVinek?feature=share"
         },
-        "label": "Thursday, Oct 17, 2024"
+        "label": "Thursday, Oct 3, 2024"
       },
       {
-        "date": "2024-10-19",
+        "date": "2024-10-05",
         "links": {
-          "Court 1": "https://youtube.com/live/qFZ3rQ7-0p0?feature=share",
-          "Court 2": "https://youtube.com/live/HB27URzq5Bk?feature=share"
+          "Court 1": "https://youtube.com/live/p_IVej9jh4c?feature=share",
+          "Court 2": "https://youtube.com/live/4_NDpbn8FhE?feature=share"
         },
-        "label": "Friday, Oct 18, 2024"
+        "label": "Friday, Oct 4, 2024"
       }
     ]
   }
