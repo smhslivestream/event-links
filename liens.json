@@ -147,17 +147,44 @@
         }
       ],
       "archived_at": "2025-10-22T15:36:16.148Z"
+    },
+    {
+      "event_title": "Christmas Spirit Concert",
+      "days": [
+        {
+          "date": "2024-12-17",
+          "links": {
+            "Lecture Theatre": "https://youtube.com/live/dLo32E5xDXs?feature=share"
+          },
+          "label": "Monday, Dec 16, 2024"
+        }
+      ],
+      "archived_at": "2025-10-22T15:37:58.635Z"
     }
   ],
   "current_event": {
-    "event_title": "Christmas Spirit Concert",
+    "event_title": "Kelly Smith Memorial Tournament (Basketball)",
     "days": [
       {
-        "date": "2024-12-17",
+        "date": "2024-11-28",
         "links": {
-          "Lecture Theatre": "https://youtube.com/live/dLo32E5xDXs?feature=share"
+          "Main Gym": "https://youtube.com/live/loYgNVa-yVc?feature=share"
         },
-        "label": "Monday, Dec 16, 2024"
+        "label": "Wednesday, Nov 27, 2024"
+      },
+      {
+        "date": "2024-11-29",
+        "links": {
+          "Main Gym": "https://youtube.com/live/eSRIPusJ0DA?feature=share"
+        },
+        "label": "Thursday, Nov 28, 2024"
+      },
+      {
+        "date": "2024-11-30",
+        "links": {
+          "Main Gym": "https://youtube.com/live/vW8MjypC4wg?feature=share"
+        },
+        "label": "Friday, Nov 29, 2024"
       }
     ]
   }
