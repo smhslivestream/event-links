@@ -47,26 +47,48 @@
         }
       ],
       "archived_at": "2025-10-22T02:48:04.630Z"
+    },
+    {
+      "event_title": "Volleyball Boys Tournament",
+      "days": [
+        {
+          "date": "2025-10-03",
+          "links": {
+            "Court 1": "https://youtube.com/live/GAlFWF09-XE?feature=share",
+            "Court 2": "https://youtube.com/live/TJD9yVVkNzs?feature=share"
+          },
+          "label": "Thursday, Oct 2, 2025"
+        },
+        {
+          "date": "2025-10-04",
+          "links": {
+            "Court 1": "https://youtube.com/live/H1GUBVwyKz0?feature=share",
+            "Court 2": "https://youtube.com/live/sy-RHCBxTz0?feature=share"
+          },
+          "label": "Friday, Oct 3, 2025"
+        }
+      ],
+      "archived_at": "2025-10-22T02:49:13.208Z"
     }
   ],
   "current_event": {
-    "event_title": "Volleyball Boys Tournament",
+    "event_title": "SMHS Senior A Girls Tournament",
     "days": [
       {
-        "date": "2025-10-03",
+        "date": "2025-09-19",
         "links": {
-          "Court 1": "https://youtube.com/live/GAlFWF09-XE?feature=share",
-          "Court 2": "https://youtube.com/live/TJD9yVVkNzs?feature=share"
+          "Court 1": "https://youtube.com/live/XWfXjxkYbFE?feature=share",
+          "Court 2": "https://youtube.com/live/gVFlBhL7vgo?feature=share"
         },
-        "label": "Thursday, Oct 2, 2025"
+        "label": "Thursday, Sep 18, 2025"
       },
       {
-        "date": "2025-10-04",
+        "date": "2025-09-20",
         "links": {
-          "Court 1": "https://youtube.com/live/H1GUBVwyKz0?feature=share",
-          "Court 2": "https://youtube.com/live/sy-RHCBxTz0?feature=share"
+          "Court 1": "https://youtube.com/live/r37uen-3SVs?feature=share",
+          "Court 2": "https://youtube.com/live/dBiO5_p2wuQ?feature=share"
         },
-        "label": "Friday, Oct 3, 2025"
+        "label": "Friday, Sep 19, 2025"
       }
     ]
   }
