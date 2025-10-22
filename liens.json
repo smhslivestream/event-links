@@ -277,8 +277,5 @@
       "archived_at": "2025-10-22T15:49:05.525Z"
     }
   ],
-  "current_event": {
-    "event_title": "Placeholder",
-    "days": []
-  }
+  "current_event": null
 }
