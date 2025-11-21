@@ -1,26 +1,27 @@
 {
+  "current_event": {
+    "event_title": "te",
+    "days": [
+      {
+        "date": "2025-11-20",
+        "links": {
+          "Court 1": "1"
+        },
+        "label": "Invalid date"
+      }
+    ]
+  },
   "past_events": [
     {
-      "event_title": "Junior Girls Tournament (Volleyball)",
+      "event_title": "te",
       "days": [
         {
-          "date": "2025-10-17",
+          "date": "2025-11-20",
           "links": {
-            "Court 1": "https://youtube.com/live/ALQdo4it77g?feature=share",
-            "Court 2": "https://youtube.com/live/8YLHwNKsyjo?feature=share"
-          },
-          "label": "Thursday, Oct 16, 2025"
-        },
-        {
-          "date": "2025-10-18",
-          "links": {
-            "Court 1": "https://youtube.com/live/a7QGqvA55_0?feature=share",
-            "Court 2": "https://youtube.com/live/4I6F-ou_ocY?feature=share"
-          },
-          "label": "Friday, Oct 17, 2025"
+            "Court 1": "1"
+          }
         }
-      ],
-      "archived_at": "2025-10-22T02:48:04.630Z"
+      ]
     },
     {
       "event_title": "Volleyball Boys Tournament",
@@ -320,17 +321,5 @@
       ],
       "archived_at": "2025-11-21T04:48:44.772Z"
     }
-  ],
-  "current_event": {
-    "event_title": "te",
-    "days": [
-      {
-        "date": "2025-11-20",
-        "links": {
-          "Court 1": "1"
-        },
-        "label": "Invalid date"
-      }
-    ]
-  }
+  ]
 }
