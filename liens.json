@@ -297,26 +297,39 @@
         }
       ],
       "archived_at": "2025-11-07T19:06:13.397Z"
+    },
+    {
+      "event_title": "SHSAA 5A Senior Boys Volleyball Provincials",
+      "days": [
+        {
+          "date": "2025-11-14",
+          "links": {
+            "SMHS (Court 1)": "https://youtube.com/live/8rT39natwRo?feature=share",
+            "Sask Poly (Court 2)": "https://youtube.com/live/UxTMTrp1KMY?feature=share"
+          },
+          "label": "Thursday, Nov 13, 2025"
+        },
+        {
+          "date": "2025-11-15",
+          "links": {
+            "SMHS (Court 1)": "https://youtube.com/live/N9ztbyqCcYI?feature=share",
+            "Sask Poly (Court 2)": "https://youtube.com/live/YRRYgVjn3xA?feature=share"
+          },
+          "label": "Friday, Nov 14, 2025"
+        }
+      ],
+      "archived_at": "2025-11-21T04:48:44.772Z"
     }
   ],
   "current_event": {
-    "event_title": "SHSAA 5A Senior Boys Volleyball Provincials",
+    "event_title": "te",
     "days": [
       {
-        "date": "2025-11-14",
+        "date": "2025-11-20",
         "links": {
-          "SMHS (Court 1)": "https://youtube.com/live/8rT39natwRo?feature=share",
-          "Sask Poly (Court 2)": "https://youtube.com/live/UxTMTrp1KMY?feature=share"
+          "Court 1": "1"
         },
-        "label": "Thursday, Nov 13, 2025"
-      },
-      {
-        "date": "2025-11-15",
-        "links": {
-          "SMHS (Court 1)": "https://youtube.com/live/N9ztbyqCcYI?feature=share",
-          "Sask Poly (Court 2)": "https://youtube.com/live/YRRYgVjn3xA?feature=share"
-        },
-        "label": "Friday, Nov 14, 2025"
+        "label": "Invalid date"
       }
     ]
   }
