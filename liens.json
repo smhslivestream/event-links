@@ -334,5 +334,18 @@
         }
       ]
     }
-  ]
+  ],
+  "past_events": [],
+  "current_event": {
+    "event_title": "Testst",
+    "days": [
+      {
+        "date": "2025-11-21",
+        "links": {
+          "Court 1": "234"
+        },
+        "label": "Invalid date"
+      }
+    ]
+  }
 }
