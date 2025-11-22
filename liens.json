@@ -13,28 +13,6 @@
   },
   "past_events": [
     {
-      "event_title": "École SMHS Senior A Boys/Girls Tournament (Volleyball)",
-      "days": [
-        {
-          "date": "2024-11-01",
-          "links": {
-            "Court 1 - Girls": "https://youtube.com/live/bViOd0W77VA?feature=share",
-            "Court 2 - Boys": "https://youtube.com/live/Ttostg6b6fI?feature=share"
-          },
-          "label": "Thursday, Oct 31, 2024"
-        },
-        {
-          "date": "2024-01-02",
-          "links": {
-            "Court 1 - Girls": "https://youtube.com/live/dZGjVdosmyA?feature=share",
-            "Court 2 - Boys": "https://youtube.com/live/fnXD2ot7ks8?feature=share"
-          },
-          "label": "Monday, Jan 1, 2024"
-        }
-      ],
-      "archived_at": "2025-10-22T15:41:14.611Z"
-    },
-    {
       "event_title": "École SMHS Junior A Girls Volleyball Tournament",
       "days": [
         {
