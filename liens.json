@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T22:05:18.457Z",
+  "generated_at": "2025-11-22T22:18:49.283Z",
   "source": "SMHS Livestream Editor",
   "count": 13,
   "events": [
@@ -13,22 +13,22 @@
           "links": {
             "Court 1": "https://www.youtube.com/watch?v=7B9AXYu4rxo"
           },
-          "label": "Wednesday, Nov 19, 2025"
+          "label": "Wednesday, November 19, 2025"
         },
         {
-          "date": "2025-11-22",
+          "date": "2025-11-19",
           "links": {
             "Court 2": "https://www.youtube.com/watch?v=VjCn3ogKL6Y",
             "Big Gym": "https://www.youtube.com/watch?v=ZCRthnNzVqA"
           },
-          "label": "Saturday, Nov 22, 2025"
+          "label": "Wednesday, November 19, 2025"
         },
         {
-          "date": "2025-11-23",
+          "date": "2025-11-20",
           "links": {
             "Soccer Field": "https://www.youtube.com/watch?v=dQXjEJn3dT8"
           },
-          "label": "Sunday, Nov 23, 2025"
+          "label": "Thursday, November 20, 2025"
         }
       ]
     },
