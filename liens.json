@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-22T17:05:33.175Z",
+  "generated_at": "2025-11-22T17:05:41.574Z",
   "source": "SMHS Livestream Editor",
-  "count": 14,
+  "count": 13,
   "events": [
     {
       "event_title": "3rd Annual Wrestling Dual",
@@ -12,33 +12,6 @@
             "Main Gym": "https://youtube.com/live/S_49hg0iJZQ?feature=share"
           },
           "label": "Thursday, February 13, 2025"
-        }
-      ],
-      "current": false
-    },
-    {
-      "event_title": "Kelly Smith Memorial Tournament (Basketball)",
-      "days": [
-        {
-          "date": "2024-11-28",
-          "links": {
-            "Main Gym": "https://youtube.com/live/loYgNVa-yVc?feature=share"
-          },
-          "label": "Thursday, November 28, 2024"
-        },
-        {
-          "date": "2024-11-29",
-          "links": {
-            "Main Gym": "https://youtube.com/live/eSRIPusJ0DA?feature=share"
-          },
-          "label": "Friday, November 29, 2024"
-        },
-        {
-          "date": "2024-11-30",
-          "links": {
-            "Main Gym": "https://youtube.com/live/vW8MjypC4wg?feature=share"
-          },
-          "label": "Saturday, November 30, 2024"
         }
       ],
       "current": false
