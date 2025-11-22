@@ -13,28 +13,6 @@
   },
   "past_events": [
     {
-      "event_title": "Senior A Boys Tournament (Volleyball)",
-      "days": [
-        {
-          "date": "2025-09-05",
-          "links": {
-            "Court 1": "https://youtube.com/live/UHml1zuVeK8?feature=share",
-            "Court 2": "https://youtube.com/live/I5MtjcRuXLw?feature=share"
-          },
-          "label": "Thursday, Sep 4, 2025"
-        },
-        {
-          "date": "2025-09-06",
-          "links": {
-            "Court 1": "https://youtube.com/live/HlAw6A0IpJw?feature=share",
-            "Court 2": "https://youtube.com/live/587pF8r3lFY?feature=share"
-          },
-          "label": "Friday, Sep 5, 2025"
-        }
-      ],
-      "archived_at": "2025-10-22T14:40:50.461Z"
-    },
-    {
       "event_title": "3rd Annual Wrestling Dual",
       "days": [
         {
