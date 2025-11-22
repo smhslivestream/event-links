@@ -37,7 +37,6 @@
     },
     {
       "event_title": "Volleyball Boys Tournament",
-      "current": false,
       "days": [
         {
           "date": "2025-10-03",
@@ -45,7 +44,7 @@
             "Court 1": "https://youtube.com/live/GAlFWF09-XE?feature=share",
             "Court 2": "https://youtube.com/live/TJD9yVVkNzs?feature=share"
           },
-          "label": "Thursday, Oct 2, 2025"
+          "label": "Friday, October 3, 2025"
         },
         {
           "date": "2025-10-04",
@@ -53,10 +52,10 @@
             "Court 1": "https://youtube.com/live/H1GUBVwyKz0?feature=share",
             "Court 2": "https://youtube.com/live/sy-RHCBxTz0?feature=share"
           },
-          "label": "Friday, Oct 3, 2025"
+          "label": "Saturday, October 4, 2025"
         }
       ],
-      "archived_at": "2025-10-22T02:49:13.208Z"
+      "current": false
     },
     {
       "event_title": "SMHS Senior A Girls Tournament (Volleyball)",
