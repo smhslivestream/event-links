@@ -13,26 +13,6 @@
   },
   "past_events": [
     {
-      "event_title": "Junior A Girls Basketball Tournament",
-      "days": [
-        {
-          "date": "2025-01-10",
-          "links": {
-            "Main Gym": "https://youtube.com/live/U4X2BU3Tr3w?feature=share"
-          },
-          "label": "Thursday, Jan 9, 2025"
-        },
-        {
-          "date": "2025-01-11",
-          "links": {
-            "Main Gym": "https://youtube.com/live/EeeLloSrN8M?feature=share"
-          },
-          "label": "Friday, Jan 10, 2025"
-        }
-      ],
-      "archived_at": "2025-10-22T15:36:16.148Z"
-    },
-    {
       "event_title": "Christmas Spirit Concert",
       "days": [
         {
