@@ -1,5 +1,19 @@
 {
+  "updated_at": "2025-11-22T05:00:50.651Z",
   "events": [
+    {
+      "event_title": "Testing",
+      "current": true,
+      "days": [
+        {
+          "date": "2025-11-21",
+          "links": {
+            "Court 1": "www"
+          },
+          "label": "Friday, Nov 21, 2025"
+        }
+      ]
+    },
     {
       "event_title": "Junior Girls Tournament (Volleyball)",
       "current": false,
@@ -314,7 +328,7 @@
     },
     {
       "event_title": "SHSAA 5A Senior Boys Volleyball Provincials",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2025-11-14",
@@ -334,18 +348,5 @@
         }
       ]
     }
-  ],
-  "past_events": [],
-  "current_event": {
-    "event_title": "Testst",
-    "days": [
-      {
-        "date": "2025-11-21",
-        "links": {
-          "Court 1": "234"
-        },
-        "label": "Invalid date"
-      }
-    ]
-  }
+  ]
 }
