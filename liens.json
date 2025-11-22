@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T17:04:04.408Z",
+  "generated_at": "2025-11-22T17:05:33.175Z",
   "source": "SMHS Livestream Editor",
   "count": 14,
   "events": [
@@ -17,23 +17,28 @@
       "current": false
     },
     {
-      "event_title": "Volleyball Boys Tournament (A and B)",
+      "event_title": "Kelly Smith Memorial Tournament (Basketball)",
       "days": [
         {
-          "date": "2025-10-03",
+          "date": "2024-11-28",
           "links": {
-            "Court 1": "https://youtube.com/live/GAlFWF09-XE?feature=share",
-            "Court 2": "https://youtube.com/live/TJD9yVVkNzs?feature=share"
+            "Main Gym": "https://youtube.com/live/loYgNVa-yVc?feature=share"
           },
-          "label": "Friday, October 3, 2025"
+          "label": "Thursday, November 28, 2024"
         },
         {
-          "date": "2025-10-04",
+          "date": "2024-11-29",
           "links": {
-            "Court 1": "https://youtube.com/live/H1GUBVwyKz0?feature=share",
-            "Court 2": "https://youtube.com/live/sy-RHCBxTz0?feature=share"
+            "Main Gym": "https://youtube.com/live/eSRIPusJ0DA?feature=share"
           },
-          "label": "Saturday, October 4, 2025"
+          "label": "Friday, November 29, 2024"
+        },
+        {
+          "date": "2024-11-30",
+          "links": {
+            "Main Gym": "https://youtube.com/live/vW8MjypC4wg?feature=share"
+          },
+          "label": "Saturday, November 30, 2024"
         }
       ],
       "current": false
