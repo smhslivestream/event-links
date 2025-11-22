@@ -90,17 +90,16 @@
     },
     {
       "event_title": "3rd Annual Wrestling Dual",
-      "current": false,
       "days": [
         {
           "date": "2025-02-13",
           "links": {
             "Main Gym": "https://youtube.com/live/S_49hg0iJZQ?feature=share"
           },
-          "label": "Wednesday, Feb 12, 2025"
+          "label": "Thursday, February 13, 2025"
         }
       ],
-      "archived_at": "2025-10-22T14:44:16.292Z"
+      "current": false
     },
     {
       "event_title": "Senior A Boys Basketball Tournament",
