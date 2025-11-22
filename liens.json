@@ -103,31 +103,30 @@
     },
     {
       "event_title": "Senior A Boys Basketball Tournament",
-      "current": false,
       "days": [
         {
           "date": "2025-02-06",
           "links": {
             "Main Gym": "https://youtube.com/live/a6UotlXu9Bo?feature=share"
           },
-          "label": "Wednesday, Feb 5, 2025"
+          "label": "Thursday, February 6, 2025"
         },
         {
           "date": "2025-02-07",
           "links": {
             "Main Gym": "https://youtube.com/live/0dlwk_b7NQU?feature=share"
           },
-          "label": "Thursday, Feb 6, 2025"
+          "label": "Friday, February 7, 2025"
         },
         {
           "date": "2025-02-08",
           "links": {
             "Main Gym": "https://youtube.com/live/Nqcu4pi4ZCs?feature=share"
           },
-          "label": "Friday, Feb 7, 2025"
+          "label": "Saturday, February 8, 2025"
         }
       ],
-      "archived_at": "2025-10-22T15:34:29.704Z"
+      "current": false
     },
     {
       "event_title": "Junior A Girls Basketball Tournament",
