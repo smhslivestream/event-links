@@ -1,19 +1,5 @@
 {
-  "updated_at": "2025-11-22T05:20:35.491Z",
   "events": [
-    {
-      "event_title": "Testing it",
-      "current": true,
-      "days": [
-        {
-          "date": "2025-11-21",
-          "links": {
-            "Court 1": "1"
-          },
-          "label": "Friday, Nov 21, 2025"
-        }
-      ]
-    },
     {
       "event_title": "Junior Girls Tournament (Volleyball)",
       "days": [
