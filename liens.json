@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T22:18:49.283Z",
+  "generated_at": "2025-11-22T22:31:30.245Z",
   "source": "SMHS Livestream Editor",
   "count": 13,
   "events": [
@@ -11,24 +11,16 @@
         {
           "date": "2025-11-19",
           "links": {
-            "Court 1": "https://www.youtube.com/watch?v=7B9AXYu4rxo"
-          },
-          "label": "Wednesday, November 19, 2025"
-        },
-        {
-          "date": "2025-11-19",
-          "links": {
+            "Court 1": "https://www.youtube.com/watch?v=7B9AXYu4rxo",
             "Court 2": "https://www.youtube.com/watch?v=VjCn3ogKL6Y",
-            "Big Gym": "https://www.youtube.com/watch?v=ZCRthnNzVqA"
-          },
-          "label": "Wednesday, November 19, 2025"
+            "Court 3": "https://www.youtube.com/watch?v=ZCRthnNzVqA"
+          }
         },
         {
           "date": "2025-11-20",
           "links": {
-            "Soccer Field": "https://www.youtube.com/watch?v=dQXjEJn3dT8"
-          },
-          "label": "Thursday, November 20, 2025"
+            "Court 1": "https://www.youtube.com/watch?v=dQXjEJn3dT8"
+          }
         }
       ]
     },
@@ -40,8 +32,7 @@
           "date": "2025-02-13",
           "links": {
             "Main Gym": "https://youtube.com/live/S_49hg0iJZQ?feature=share"
-          },
-          "label": "Thursday, February 13, 2025"
+          }
         }
       ],
       "current": false
@@ -55,16 +46,14 @@
           "links": {
             "Court 1": "https://youtube.com/live/XWfXjxkYbFE?feature=share",
             "Court 2": "https://youtube.com/live/gVFlBhL7vgo?feature=share"
-          },
-          "label": "Friday, September 19, 2025"
+          }
         },
         {
           "date": "2025-09-20",
           "links": {
             "Court 1": "https://youtube.com/live/r37uen-3SVs?feature=share",
             "Court 2": "https://youtube.com/live/dBiO5_p2wuQ?feature=share"
-          },
-          "label": "Saturday, September 20, 2025"
+          }
         }
       ],
       "current": false
@@ -78,16 +67,14 @@
           "links": {
             "Court 1": "https://youtube.com/live/UHml1zuVeK8?feature=share",
             "Court 2": "https://youtube.com/live/I5MtjcRuXLw?feature=share"
-          },
-          "label": "Friday, September 5, 2025"
+          }
         },
         {
           "date": "2025-09-06",
           "links": {
             "Court 1": "https://youtube.com/live/HlAw6A0IpJw?feature=share",
             "Court 2": "https://youtube.com/live/587pF8r3lFY?feature=share"
-          },
-          "label": "Saturday, September 6, 2025"
+          }
         }
       ],
       "current": false
@@ -100,22 +87,19 @@
           "date": "2025-02-06",
           "links": {
             "Main Gym": "https://youtube.com/live/a6UotlXu9Bo?feature=share"
-          },
-          "label": "Thursday, February 6, 2025"
+          }
         },
         {
           "date": "2025-02-07",
           "links": {
             "Main Gym": "https://youtube.com/live/0dlwk_b7NQU?feature=share"
-          },
-          "label": "Friday, February 7, 2025"
+          }
         },
         {
           "date": "2025-02-08",
           "links": {
             "Main Gym": "https://youtube.com/live/Nqcu4pi4ZCs?feature=share"
-          },
-          "label": "Saturday, February 8, 2025"
+          }
         }
       ],
       "current": false
@@ -128,15 +112,13 @@
           "date": "2025-01-10",
           "links": {
             "Main Gym": "https://youtube.com/live/U4X2BU3Tr3w?feature=share"
-          },
-          "label": "Friday, January 10, 2025"
+          }
         },
         {
           "date": "2025-01-11",
           "links": {
             "Main Gym": "https://youtube.com/live/EeeLloSrN8M?feature=share"
-          },
-          "label": "Saturday, January 11, 2025"
+          }
         }
       ],
       "current": false
@@ -149,22 +131,19 @@
           "date": "2024-11-28",
           "links": {
             "Main Gym": "https://youtube.com/live/loYgNVa-yVc?feature=share"
-          },
-          "label": "Thursday, November 28, 2024"
+          }
         },
         {
           "date": "2024-11-29",
           "links": {
             "Main Gym": "https://youtube.com/live/eSRIPusJ0DA?feature=share"
-          },
-          "label": "Friday, November 29, 2024"
+          }
         },
         {
           "date": "2024-11-30",
           "links": {
             "Main Gym": "https://youtube.com/live/vW8MjypC4wg?feature=share"
-          },
-          "label": "Saturday, November 30, 2024"
+          }
         }
       ],
       "current": false
@@ -174,20 +153,18 @@
       "event_title": "École SMHS Senior A Boys/Girls Tournament (Volleyball)",
       "days": [
         {
-          "date": "2024-11-01",
-          "links": {
-            "Court 1 - Girls": "https://youtube.com/live/bViOd0W77VA?feature=share",
-            "Court 2 - Boys": "https://youtube.com/live/Ttostg6b6fI?feature=share"
-          },
-          "label": "Friday, November 1, 2024"
-        },
-        {
           "date": "2024-01-02",
           "links": {
             "Court 1 - Girls": "https://youtube.com/live/dZGjVdosmyA?feature=share",
             "Court 2 - Boys": "https://youtube.com/live/fnXD2ot7ks8?feature=share"
-          },
-          "label": "Tuesday, January 2, 2024"
+          }
+        },
+        {
+          "date": "2024-11-01",
+          "links": {
+            "Court 1 - Girls": "https://youtube.com/live/bViOd0W77VA?feature=share",
+            "Court 2 - Boys": "https://youtube.com/live/Ttostg6b6fI?feature=share"
+          }
         }
       ],
       "current": false
@@ -201,16 +178,14 @@
           "links": {
             "Court 1": "https://youtube.com/live/qmfLJMTgZcI?feature=share",
             "Court 2": "https://youtube.com/live/T4ZQM9bV8Z0?feature=share"
-          },
-          "label": "Friday, October 18, 2024"
+          }
         },
         {
           "date": "2024-10-19",
           "links": {
             "Court 1": "https://youtube.com/live/qFZ3rQ7-0p0?feature=share",
             "Court 2": "https://youtube.com/live/HB27URzq5Bk?feature=share"
-          },
-          "label": "Saturday, October 19, 2024"
+          }
         }
       ],
       "current": false
@@ -224,16 +199,14 @@
           "links": {
             "Court 1": "https://youtube.com/live/kfaGG-7LcmA?feature=share",
             "Court 2": "https://youtube.com/live/3phTzbVinek?feature=share"
-          },
-          "label": "Friday, October 4, 2024"
+          }
         },
         {
           "date": "2024-10-05",
           "links": {
             "Court 1": "https://youtube.com/live/p_IVej9jh4c?feature=share",
             "Court 2": "https://youtube.com/live/4_NDpbn8FhE?feature=share"
-          },
-          "label": "Saturday, October 5, 2024"
+          }
         }
       ],
       "current": false
@@ -247,16 +220,14 @@
           "links": {
             "Court 1": "https://youtube.com/live/i1QuOX2cx58?feature=share",
             "Court 2": "https://youtube.com/live/7D_dksetC4I?feature=share"
-          },
-          "label": "Friday, September 27, 2024"
+          }
         },
         {
           "date": "2024-09-28",
           "links": {
             "Court 1": "https://youtube.com/live/1vvlngF7Cdc?feature=share",
             "Court 2": "https://youtube.com/live/RMSL9sLOnmE?feature=share"
-          },
-          "label": "Saturday, September 28, 2024"
+          }
         }
       ],
       "current": false
@@ -270,16 +241,14 @@
           "links": {
             "Court 1": "https://youtube.com/live/fsT3-gMJSzI?feature=share",
             "Court 2": "https://youtube.com/live/I0p9Sbl4zJk?feature=share"
-          },
-          "label": "Friday, October 31, 2025"
+          }
         },
         {
           "date": "2025-11-01",
           "links": {
             "Court 1": "https://youtube.com/live/ATzw56ZE1mE?feature=share",
             "Court 2": "https://youtube.com/live/AiG_LPkjEXI?feature=share"
-          },
-          "label": "Saturday, November 1, 2025"
+          }
         }
       ],
       "current": false
@@ -293,16 +262,14 @@
           "links": {
             "SMHS (Court 1)": "https://youtube.com/live/8rT39natwRo?feature=share",
             "Sask Poly (Court 2)": "https://youtube.com/live/UxTMTrp1KMY?feature=share"
-          },
-          "label": "Friday, November 14, 2025"
+          }
         },
         {
           "date": "2025-11-15",
           "links": {
             "SMHS (Court 1)": "https://youtube.com/live/N9ztbyqCcYI?feature=share",
             "Sask Poly (Court 2)": "https://youtube.com/live/YRRYgVjn3xA?feature=share"
-          },
-          "label": "Saturday, November 15, 2025"
+          }
         }
       ],
       "current": true
