@@ -1,35 +1,20 @@
 {
-  "generated_at": "2025-11-22T16:54:10.001Z",
+  "generated_at": "2025-11-22T16:54:19.257Z",
   "source": "SMHS Livestream Editor",
   "count": 15,
   "events": [
     {
-      "event_title": "M2",
-      "current": true,
+      "event_title": "3rd Annual Wrestling Dual",
       "days": [
         {
-          "date": "2025-11-19",
+          "date": "2025-02-13",
           "links": {
-            "Court 1": "https://www.youtube.com/watch?v=7B9AXYu4rxo"
+            "Main Gym": "https://youtube.com/live/S_49hg0iJZQ?feature=share"
           },
-          "label": "Wednesday, Nov 19, 2025"
-        },
-        {
-          "date": "2025-11-22",
-          "links": {
-            "Court 2": "https://www.youtube.com/watch?v=VjCn3ogKL6Y",
-            "Big Gym": "https://www.youtube.com/watch?v=ZCRthnNzVqA"
-          },
-          "label": "Saturday, Nov 22, 2025"
-        },
-        {
-          "date": "2025-11-23",
-          "links": {
-            "Soccer Field": "https://www.youtube.com/watch?v=dQXjEJn3dT8"
-          },
-          "label": "Sunday, Nov 23, 2025"
+          "label": "Thursday, February 13, 2025"
         }
-      ]
+      ],
+      "current": false
     },
     {
       "event_title": "SHSAA 5A Senior Boys Volleyball Provincials",
