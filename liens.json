@@ -284,7 +284,6 @@
     },
     {
       "event_title": "SMHS Boys & Girls Volleyball Tournament",
-      "current": false,
       "days": [
         {
           "date": "2025-10-31",
@@ -292,7 +291,7 @@
             "Court 1": "https://youtube.com/live/fsT3-gMJSzI?feature=share",
             "Court 2": "https://youtube.com/live/I0p9Sbl4zJk?feature=share"
           },
-          "label": "Thursday, Oct 30, 2025"
+          "label": "Friday, October 31, 2025"
         },
         {
           "date": "2025-11-01",
@@ -300,10 +299,10 @@
             "Court 1": "https://youtube.com/live/ATzw56ZE1mE?feature=share",
             "Court 2": "https://youtube.com/live/AiG_LPkjEXI?feature=share"
           },
-          "label": "Friday, Oct 31, 2025"
+          "label": "Saturday, November 1, 2025"
         }
       ],
-      "archived_at": "2025-11-07T19:06:13.397Z"
+      "current": false
     },
     {
       "event_title": "SHSAA 5A Senior Boys Volleyball Provincials",
