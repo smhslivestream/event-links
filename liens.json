@@ -25,23 +25,14 @@
       ]
     },
     {
-      "event_title": "École SMHS Junior Boys Volleyball Tournament",
+      "event_title": "te",
       "days": [
         {
-          "date": "2024-10-04",
+          "date": "2025-11-20",
           "links": {
-            "Court 1": "https://youtube.com/live/kfaGG-7LcmA?feature=share",
-            "Court 2": "https://youtube.com/live/3phTzbVinek?feature=share"
+            "Court 1": "1"
           },
-          "label": "Friday, October 4, 2024"
-        },
-        {
-          "date": "2024-10-05",
-          "links": {
-            "Court 1": "https://youtube.com/live/p_IVej9jh4c?feature=share",
-            "Court 2": "https://youtube.com/live/4_NDpbn8FhE?feature=share"
-          },
-          "label": "Saturday, October 5, 2024"
+          "label": "Thursday, November 20, 2025"
         }
       ]
     },
