@@ -151,17 +151,16 @@
     },
     {
       "event_title": "Christmas Spirit Concert",
-      "current": false,
       "days": [
         {
           "date": "2024-12-17",
           "links": {
             "Lecture Theatre": "https://youtube.com/live/dLo32E5xDXs?feature=share"
           },
-          "label": "Monday, Dec 16, 2024"
+          "label": "Tuesday, December 17, 2024"
         }
       ],
-      "archived_at": "2025-10-22T15:37:58.635Z"
+      "current": false
     },
     {
       "event_title": "Kelly Smith Memorial Tournament (Basketball)",
