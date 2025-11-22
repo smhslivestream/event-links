@@ -1,9 +1,24 @@
 {
-  "generated_at": "2025-11-22T17:53:20.009Z",
+  "generated_at": "2025-11-22T17:05:41.574Z",
   "source": "SMHS Livestream Editor",
-  "count": 11,
+  "count": 12,
   "events": [
     {
+      "id": 1,
+      "event_title": "3rd Annual Wrestling Dual",
+      "days": [
+        {
+          "date": "2025-02-13",
+          "links": {
+            "Main Gym": "https://youtube.com/live/S_49hg0iJZQ?feature=share"
+          },
+          "label": "Thursday, February 13, 2025"
+        }
+      ],
+      "current": false
+    },
+    {
+      "id": 2,
       "event_title": "SMHS Senior A Girls Tournament (Volleyball)",
       "days": [
         {
@@ -23,10 +38,10 @@
           "label": "Saturday, September 20, 2025"
         }
       ],
-      "current": false,
-      "id": "bb27cb13-a466-4006-b257-0a06218c58e8"
+      "current": false
     },
     {
+      "id": 3,
       "event_title": "Senior A Boys Tournament (Volleyball)",
       "days": [
         {
@@ -46,10 +61,10 @@
           "label": "Saturday, September 6, 2025"
         }
       ],
-      "current": true,
-      "id": "af6f3940-7076-42ff-8973-4e647cfa194a"
+      "current": false
     },
     {
+      "id": 4,
       "event_title": "Senior A Boys Basketball Tournament",
       "days": [
         {
@@ -74,10 +89,10 @@
           "label": "Saturday, February 8, 2025"
         }
       ],
-      "current": false,
-      "id": "4e5d6586-8dbe-4ad0-a7ff-163c5d75eeb1"
+      "current": false
     },
     {
+      "id": 5,
       "event_title": "Junior A Girls Basketball Tournament",
       "days": [
         {
@@ -95,10 +110,10 @@
           "label": "Saturday, January 11, 2025"
         }
       ],
-      "current": false,
-      "id": "03cd0b22-deea-4059-babf-384c2c112fda"
+      "current": false
     },
     {
+      "id": 6,
       "event_title": "Kelly Smith Memorial Tournament (Basketball)",
       "days": [
         {
@@ -123,10 +138,10 @@
           "label": "Saturday, November 30, 2024"
         }
       ],
-      "current": false,
-      "id": "7a825a46-cbf1-4dc0-b6be-8c824ecc8bda"
+      "current": false
     },
     {
+      "id": 7,
       "event_title": "École SMHS Senior A Boys/Girls Tournament (Volleyball)",
       "days": [
         {
@@ -146,10 +161,10 @@
           "label": "Tuesday, January 2, 2024"
         }
       ],
-      "current": false,
-      "id": "636db321-3de9-4d0e-ae26-19385cae6d71"
+      "current": false
     },
     {
+      "id": 8,
       "event_title": "École SMHS Junior A Girls Volleyball Tournament",
       "days": [
         {
@@ -169,10 +184,10 @@
           "label": "Saturday, October 19, 2024"
         }
       ],
-      "current": false,
-      "id": "a83c9f23-80fa-43ce-ad51-9900e17e90fa"
+      "current": false
     },
     {
+      "id": 9,
       "event_title": "École SMHS Junior Boys Volleyball Tournament",
       "days": [
         {
@@ -192,10 +207,10 @@
           "label": "Saturday, October 5, 2024"
         }
       ],
-      "current": false,
-      "id": "bd0a5015-89bd-4be7-870e-108afab143e9"
+      "current": false
     },
     {
+      "id": 10,
       "event_title": "École SMHS Sr B Girls Volleyball Home Tournament",
       "days": [
         {
@@ -215,10 +230,10 @@
           "label": "Saturday, September 28, 2024"
         }
       ],
-      "current": false,
-      "id": "ea5e8114-6c8f-432e-8c7b-c5dff1a95507"
+      "current": false
     },
     {
+      "id": 11,
       "event_title": "SMHS Boys & Girls Volleyball Tournament",
       "days": [
         {
@@ -238,10 +253,10 @@
           "label": "Saturday, November 1, 2025"
         }
       ],
-      "current": false,
-      "id": "fdd68680-0300-4195-baf6-7947cf92a942"
+      "current": false
     },
     {
+      "id": 12,
       "event_title": "SHSAA 5A Senior Boys Volleyball Provincials",
       "days": [
         {
@@ -261,8 +276,7 @@
           "label": "Saturday, November 15, 2025"
         }
       ],
-      "current": false,
-      "id": "551763a1-34fb-43b1-b71f-058d5359f6b7"
+      "current": false
     }
   ]
 }
