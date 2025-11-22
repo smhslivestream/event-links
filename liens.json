@@ -1,5 +1,7 @@
 {
-  "updated_at": "2025-11-22T16:48:25.081Z",
+  "generated_at": "2025-11-22T16:54:10.001Z",
+  "source": "SMHS Livestream Editor",
+  "count": 15,
   "events": [
     {
       "event_title": "M2",
@@ -177,19 +179,6 @@
         }
       ],
       "archived_at": "2025-10-22T15:36:16.148Z"
-    },
-    {
-      "event_title": "Christmas Spirit Concert",
-      "days": [
-        {
-          "date": "2024-12-17",
-          "links": {
-            "Lecture Theatre": "https://youtube.com/live/dLo32E5xDXs?feature=share"
-          },
-          "label": "Tuesday, December 17, 2024"
-        }
-      ],
-      "current": false
     },
     {
       "event_title": "Kelly Smith Memorial Tournament (Basketball)",
