@@ -1,5 +1,4 @@
 {
-  "updated_at": "2025-11-22T05:00:50.651Z",
   "events": [
     {
       "event_title": "Testing",
@@ -328,7 +327,6 @@
     },
     {
       "event_title": "SHSAA 5A Senior Boys Volleyball Provincials",
-      "current": false,
       "days": [
         {
           "date": "2025-11-14",
@@ -336,7 +334,7 @@
             "SMHS (Court 1)": "https://youtube.com/live/8rT39natwRo?feature=share",
             "Sask Poly (Court 2)": "https://youtube.com/live/UxTMTrp1KMY?feature=share"
           },
-          "label": "Thursday, Nov 13, 2025"
+          "label": "Friday, November 14, 2025"
         },
         {
           "date": "2025-11-15",
@@ -344,9 +342,10 @@
             "SMHS (Court 1)": "https://youtube.com/live/N9ztbyqCcYI?feature=share",
             "Sask Poly (Court 2)": "https://youtube.com/live/YRRYgVjn3xA?feature=share"
           },
-          "label": "Friday, Nov 14, 2025"
+          "label": "Saturday, November 15, 2025"
         }
-      ]
+      ],
+      "current": true
     }
   ]
 }
