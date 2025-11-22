@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T17:52:39.790Z",
+  "generated_at": "2025-11-22T17:52:47.099Z",
   "source": "SMHS Livestream Editor",
   "count": 11,
   "events": [
@@ -215,7 +215,7 @@
           "label": "Saturday, September 28, 2024"
         }
       ],
-      "current": false,
+      "current": true,
       "id": "ea5e8114-6c8f-432e-8c7b-c5dff1a95507"
     },
     {
