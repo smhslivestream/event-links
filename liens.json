@@ -1,8 +1,35 @@
 {
-  "generated_at": "2025-11-22T17:05:41.574Z",
-  "source": "SMHS Livestream Editor",
-  "count": 12,
+  "updated_at": "2025-11-22T22:04:55.499Z",
   "events": [
+    {
+      "id": 13,
+      "event_title": "M2",
+      "current": true,
+      "days": [
+        {
+          "date": "2025-11-19",
+          "links": {
+            "Court 1": "https://www.youtube.com/watch?v=7B9AXYu4rxo"
+          },
+          "label": "Wednesday, Nov 19, 2025"
+        },
+        {
+          "date": "2025-11-22",
+          "links": {
+            "Court 2": "https://www.youtube.com/watch?v=VjCn3ogKL6Y",
+            "Big Gym": "https://www.youtube.com/watch?v=ZCRthnNzVqA"
+          },
+          "label": "Saturday, Nov 22, 2025"
+        },
+        {
+          "date": "2025-11-23",
+          "links": {
+            "Soccer Field": "https://www.youtube.com/watch?v=dQXjEJn3dT8"
+          },
+          "label": "Sunday, Nov 23, 2025"
+        }
+      ]
+    },
     {
       "id": 1,
       "event_title": "3rd Annual Wrestling Dual",
