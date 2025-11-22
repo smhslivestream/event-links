@@ -265,27 +265,6 @@
         }
       ],
       "archived_at": "2025-11-07T19:06:13.397Z"
-    },
-    {
-      "event_title": "SMHS Boys & Girls Volleyball Tournament",
-      "days": [
-        {
-          "date": "2025-10-31",
-          "links": {
-            "Court 1": "https://youtube.com/live/fsT3-gMJSzI?feature=share",
-            "Court 2": "https://youtube.com/live/I0p9Sbl4zJk?feature=share"
-          },
-          "label": "Friday, October 31, 2025"
-        },
-        {
-          "date": "2025-11-01",
-          "links": {
-            "Court 1": "https://youtube.com/live/ATzw56ZE1mE?feature=share",
-            "Court 2": "https://youtube.com/live/AiG_LPkjEXI?feature=share"
-          },
-          "label": "Saturday, November 1, 2025"
-        }
-      ]
     }
   ]
 }
