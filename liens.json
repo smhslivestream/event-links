@@ -1,26 +1,26 @@
 {
   "events": [
     {
-      "event_title": "Junior Girls Tournament (Volleyball)",
+      "event_title": "SHSAA 5A Senior Boys Volleyball Provincials",
       "days": [
         {
-          "date": "2025-10-17",
+          "date": "2025-11-14",
           "links": {
-            "Court 1": "https://youtube.com/live/ALQdo4it77g?feature=share",
-            "Court 2": "https://youtube.com/live/8YLHwNKsyjo?feature=share"
+            "SMHS (Court 1)": "https://youtube.com/live/8rT39natwRo?feature=share",
+            "Sask Poly (Court 2)": "https://youtube.com/live/UxTMTrp1KMY?feature=share"
           },
-          "label": "Friday, October 17, 2025"
+          "label": "Friday, November 14, 2025"
         },
         {
-          "date": "2025-10-18",
+          "date": "2025-11-15",
           "links": {
-            "Court 1": "https://youtube.com/live/a7QGqvA55_0?feature=share",
-            "Court 2": "https://youtube.com/live/4I6F-ou_ocY?feature=share"
+            "SMHS (Court 1)": "https://youtube.com/live/N9ztbyqCcYI?feature=share",
+            "Sask Poly (Court 2)": "https://youtube.com/live/YRRYgVjn3xA?feature=share"
           },
-          "label": "Saturday, October 18, 2025"
+          "label": "Saturday, November 15, 2025"
         }
       ],
-      "current": true
+      "current": false
     },
     {
       "event_title": "Volleyball Boys Tournament (A and B)",
