@@ -2,7 +2,7 @@
   "events": [
     {
       "event_title": "Testing",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2025-11-21",
@@ -15,7 +15,7 @@
     },
     {
       "event_title": "Junior Girls Tournament (Volleyball)",
-      "current": false,
+      "current": true,
       "days": [
         {
           "date": "2025-10-17",
@@ -345,7 +345,7 @@
           "label": "Saturday, November 15, 2025"
         }
       ],
-      "current": true
+      "current": false
     }
   ]
 }
