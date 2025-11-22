@@ -20,7 +20,7 @@
           "label": "Saturday, October 18, 2025"
         }
       ],
-      "current": true
+      "current": false
     },
     {
       "event_title": "Volleyball Boys Tournament (A and B)",
@@ -323,7 +323,7 @@
           "label": "Saturday, November 15, 2025"
         }
       ],
-      "current": false
+      "current": true
     }
   ]
 }
