@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-23T19:07:10.752Z",
+  "generated_at": "2025-11-23T19:07:11.313Z",
   "source": "SMHS Livestream Editor",
-  "count": 13,
+  "count": 14,
   "events": [
     {
       "id": 13,
@@ -272,6 +272,19 @@
         }
       ],
       "current": true
+    },
+    {
+      "id": "00fe8a90-f543-4f1b-8955-54de538cd9b6",
+      "event_title": "M2",
+      "current": false,
+      "days": [
+        {
+          "date": "2025-11-19",
+          "links": {
+            "Court 2": "https://www.youtube.com/watch?v=VjCn3ogKL6Y"
+          }
+        }
+      ]
     }
   ]
 }
