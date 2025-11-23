@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T19:07:23.893Z",
+  "generated_at": "2025-11-23T19:18:04.439Z",
   "source": "SMHS Livestream Editor",
   "count": 13,
   "events": [
@@ -34,7 +34,7 @@
           }
         }
       ],
-      "current": true
+      "current": false
     },
     {
       "id": 2,
@@ -187,7 +187,7 @@
           }
         }
       ],
-      "current": false
+      "current": true
     },
     {
       "id": 9,
@@ -271,7 +271,7 @@
           }
         }
       ],
-      "current": true
+      "current": false
     }
   ]
 }
