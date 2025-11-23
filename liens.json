@@ -1,8 +1,20 @@
 {
-  "generated_at": "2025-11-23T19:20:49.877Z",
-  "source": "SMHS Livestream Editor",
-  "count": 12,
+  "updated_at": "2025-11-23T19:26:05.563Z",
   "events": [
+    {
+      "id": 13,
+      "event_title": "Christmas Spirit Concert",
+      "current": true,
+      "days": [
+        {
+          "date": "2024-12-17",
+          "links": {
+            "Lecture Theatre": "https://youtube.com/live/dLo32E5xDXs?feature=share"
+          },
+          "label": "Tuesday, Dec 17, 2024"
+        }
+      ]
+    },
     {
       "id": 1,
       "event_title": "3rd Annual Wrestling Dual",
