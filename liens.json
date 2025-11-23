@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-11-23T19:18:27.278Z",
+  "generated_at": "2025-11-23T19:18:36.084Z",
   "source": "SMHS Livestream Editor",
   "count": 14,
   "events": [
     {
       "id": 13,
       "event_title": "M2",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2025-11-19",
@@ -275,7 +275,7 @@
     {
       "id": "37c71391-6bec-4655-8a21-f54c33f50008",
       "event_title": "M2",
-      "current": false,
+      "current": true,
       "days": [
         {
           "date": "2025-11-19",
