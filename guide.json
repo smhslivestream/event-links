@@ -1,17 +1,11 @@
 {
-  "generated_at": "2025-01-01T00:00:00.000Z",
+  "generated_at": "2025-11-24T02:55:25.721Z",
   "items": [
     {
       "id": "5b2f8e6e-628c-41f1-90f6-a8bcd67d231e",
       "title": "How to Start a Livestream",
       "description": "A step-by-step video showing how to set up OBS, cameras, and scheduled YouTube livestreams for SMHS events.",
       "link": "https://youtu.be/dQw4w9WgXcQ"
-    },
-    {
-      "id": "b8e2db8b-2e7d-4a54-8856-f74d0a2fb111",
-      "title": "How to Use the Scoreboard Tool",
-      "description": "Explains how to operate the scoreboard app, load teams, change scores, and push updates to the livestream.",
-      "link": "https://youtu.be/5NV6Rdv1a3I"
     },
     {
       "id": "f61de09e-63ff-42a0-9fe4-aa2e51e0f002",
