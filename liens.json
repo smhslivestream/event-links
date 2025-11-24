@@ -1,8 +1,27 @@
 {
-  "generated_at": "2025-11-23T19:27:41.304Z",
-  "source": "SMHS Livestream Editor",
-  "count": 14,
+  "updated_at": "2025-11-24T15:22:00.078Z",
   "events": [
+    {
+      "id": 15,
+      "event_title": "Kelly Smith Memorial Basketball Tournament - Fri, Nov. 28",
+      "current": true,
+      "days": [
+        {
+          "date": "2025-11-28",
+          "links": {
+            "Main Gym": "https://www.youtube.com/watch?v=NEVng4QEBuI"
+          },
+          "label": "Friday, Nov 28, 2025"
+        },
+        {
+          "date": "2025-11-29",
+          "links": {
+            "Main Gym": "https://www.youtube.com/watch?v=yLubhxM0VEw"
+          },
+          "label": "Saturday, Nov 29, 2025"
+        }
+      ]
+    },
     {
       "id": 14,
       "event_title": "Volleyball Boys Tournament",
@@ -285,7 +304,7 @@
           }
         }
       ],
-      "current": true
+      "current": false
     }
   ]
 }
