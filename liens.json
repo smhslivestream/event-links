@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-24T15:22:28.102Z",
-  "source": "SMHS Livestream Editor",
-  "count": 15,
+  "updated_at": "2025-11-24T22:01:35.137Z",
   "events": [
+    {
+      "id": 16,
+      "event_title": "SMHS June Awards Ceremony 2025",
+      "current": true,
+      "days": [
+        {
+          "date": "2025-06-04",
+          "links": {
+            "Main Gym": "https://youtube.com/live/Ox1cErASUsk?feature=share"
+          },
+          "label": "Wednesday, Jun 4, 2025"
+        }
+      ]
+    },
     {
       "id": 15,
       "event_title": "Kelly Smith Memorial Basketball Tournament",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2025-11-28",
