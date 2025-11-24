@@ -1,18 +1,19 @@
 {
-  "updated_at": "2025-11-24T22:09:51.460Z",
+  "generated_at": "2025-11-24T22:10:07.399Z",
+  "source": "SMHS Livestream Editor",
+  "count": 17,
   "events": [
     {
       "id": 17,
       "event_title": "SMHS Grad 2025",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2025-06-24",
           "links": {
             "Grad": "https://youtube.com/live/-RCrVhE7Ito?feature=share",
             "Grand March": "https://youtube.com/live/pmJprGt8zG8?feature=share"
-          },
-          "label": "Tuesday, Jun 24, 2025"
+          }
         }
       ]
     },
@@ -32,7 +33,7 @@
     {
       "id": 15,
       "event_title": "Kelly Smith Memorial Basketball Tournament",
-      "current": false,
+      "current": true,
       "days": [
         {
           "date": "2025-11-28",
