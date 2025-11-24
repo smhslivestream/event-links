@@ -1,17 +1,11 @@
 {
-  "generated_at": "2025-11-24T02:55:25.721Z",
+  "generated_at": "2025-11-24T02:55:29.393Z",
   "items": [
     {
       "id": "5b2f8e6e-628c-41f1-90f6-a8bcd67d231e",
       "title": "How to Start a Livestream",
       "description": "A step-by-step video showing how to set up OBS, cameras, and scheduled YouTube livestreams for SMHS events.",
       "link": "https://youtu.be/dQw4w9WgXcQ"
-    },
-    {
-      "id": "f61de09e-63ff-42a0-9fe4-aa2e51e0f002",
-      "title": "Camera Setup & Troubleshooting",
-      "description": "Learn how to connect cameras, switch HDMI sources, use the capture keys, and avoid common signal problems.",
-      "link": "https://youtu.be/3JZ_D3ELwOQ"
     },
     {
       "id": "1e4db319-bf36-4e9f-94ce-834f7a1c09d5",
