@@ -1,17 +1,11 @@
 {
-  "generated_at": "2025-11-24T02:55:32.349Z",
+  "generated_at": "2025-11-24T02:55:35.818Z",
   "items": [
     {
       "id": "5b2f8e6e-628c-41f1-90f6-a8bcd67d231e",
       "title": "How to Start a Livestream",
       "description": "A step-by-step video showing how to set up OBS, cameras, and scheduled YouTube livestreams for SMHS events.",
       "link": "https://youtu.be/dQw4w9WgXcQ"
-    },
-    {
-      "id": "c87f82e4-caf8-48bb-8fa8-040f6c6c14a9",
-      "title": "Uploading Thumbnails & Editing Details",
-      "description": "How to upload event thumbnails to YouTube, edit titles, descriptions, and tags after the stream.",
-      "link": "https://youtu.be/tAGnKpE4NCI"
     }
   ]
 }
