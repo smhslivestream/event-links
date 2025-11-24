@@ -1,0 +1,35 @@
+{
+  "generated_at": "2025-01-01T00:00:00.000Z",
+  "items": [
+    {
+      "id": "5b2f8e6e-628c-41f1-90f6-a8bcd67d231e",
+      "title": "How to Start a Livestream",
+      "description": "A step-by-step video showing how to set up OBS, cameras, and scheduled YouTube livestreams for SMHS events.",
+      "link": "https://youtu.be/dQw4w9WgXcQ"
+    },
+    {
+      "id": "b8e2db8b-2e7d-4a54-8856-f74d0a2fb111",
+      "title": "How to Use the Scoreboard Tool",
+      "description": "Explains how to operate the scoreboard app, load teams, change scores, and push updates to the livestream.",
+      "link": "https://youtu.be/5NV6Rdv1a3I"
+    },
+    {
+      "id": "f61de09e-63ff-42a0-9fe4-aa2e51e0f002",
+      "title": "Camera Setup & Troubleshooting",
+      "description": "Learn how to connect cameras, switch HDMI sources, use the capture keys, and avoid common signal problems.",
+      "link": "https://youtu.be/3JZ_D3ELwOQ"
+    },
+    {
+      "id": "1e4db319-bf36-4e9f-94ce-834f7a1c09d5",
+      "title": "Livestream Crew Responsibilities",
+      "description": "Understanding each role: camera operator, switcher, scoreboard, audio, and stream supervisor.",
+      "link": "https://youtu.be/OPf0YbXqDm0"
+    },
+    {
+      "id": "c87f82e4-caf8-48bb-8fa8-040f6c6c14a9",
+      "title": "Uploading Thumbnails & Editing Details",
+      "description": "How to upload event thumbnails to YouTube, edit titles, descriptions, and tags after the stream.",
+      "link": "https://youtu.be/tAGnKpE4NCI"
+    }
+  ]
+}
