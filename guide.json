@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T17:52:12.131Z",
+  "generated_at": "2026-01-31T17:53:29.619Z",
   "items": [
     {
       "id": "5b2f8e6e-628c-41f1-90f6-a8bcd67d231e",
@@ -21,9 +21,9 @@
     },
     {
       "id": "4637829c-5d54-42fd-a6d2-759fea75dead",
-      "title": "New Guide Entry",
-      "description": "",
-      "link": ""
+      "title": "Troubleshooting - How to reset video camera (regular, not GoPro)",
+      "description": "This will show you how to reset the video camera using OBS, in case the image freezes.",
+      "link": "https://skenny-my.sharepoint.com/:v:/g/personal/remi_joncas_pacsd_ca/IQBKx6dTdeEcQLCx53Fa2WxgATwciAEtYN2rc50GvyYSda8?e=QBuwqf"
     }
   ]
 }
