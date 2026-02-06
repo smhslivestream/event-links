@@ -1,5 +1,7 @@
 {
-  "updated_at": "2026-02-06T02:49:29.098Z",
+  "generated_at": "2026-02-06T02:49:52.321Z",
+  "source": "SMHS Livestream Editor",
+  "count": 20,
   "events": [
     {
       "id": 20,
@@ -10,8 +12,7 @@
           "date": "2026-02-10",
           "links": {
             "Main Gym": "https://www.youtube.com/watch?v=53v-3GLiWgU"
-          },
-          "label": "Tuesday, Feb 10, 2026"
+          }
         }
       ]
     },
@@ -43,7 +44,7 @@
     {
       "id": 18,
       "event_title": "SMHS Christmas Concert",
-      "current": false,
+      "current": true,
       "days": [
         {
           "date": "2025-12-09",
