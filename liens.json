@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-02-06T02:44:23.235Z",
-  "source": "SMHS Livestream Editor",
-  "count": 19,
+  "updated_at": "2026-02-06T02:49:29.098Z",
   "events": [
+    {
+      "id": 20,
+      "event_title": "4th Annual St. Mary Wrestling Dual Invitational",
+      "current": true,
+      "days": [
+        {
+          "date": "2026-02-10",
+          "links": {
+            "Main Gym": "https://www.youtube.com/watch?v=53v-3GLiWgU"
+          },
+          "label": "Tuesday, Feb 10, 2026"
+        }
+      ]
+    },
     {
       "id": 19,
       "event_title": "SMHS Senior A Boys Basketball Home Tournament",
