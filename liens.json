@@ -1,12 +1,31 @@
 {
-  "generated_at": "2026-02-06T02:49:52.321Z",
-  "source": "SMHS Livestream Editor",
-  "count": 20,
+  "updated_at": "2026-03-14T21:18:25.330Z",
   "events": [
+    {
+      "id": 21,
+      "event_title": "Prince Albert Rotary Club Model UN Assembly - Mon., Mar 16, 2026",
+      "current": true,
+      "days": [
+        {
+          "date": "2026-03-16",
+          "links": {
+            "CCHS Cafetorium": "https://www.youtube.com/watch?v=3fUDVW7Elco"
+          },
+          "label": "Monday, Mar 16, 2026"
+        },
+        {
+          "date": "2026-03-17",
+          "links": {
+            "CCHS Cafetorium": "https://www.youtube.com/watch?v=FqzZtjBV5eI"
+          },
+          "label": "Tuesday, Mar 17, 2026"
+        }
+      ]
+    },
     {
       "id": 20,
       "event_title": "4th Annual St. Mary Wrestling Dual Invitational",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2026-02-10",
@@ -19,7 +38,7 @@
     {
       "id": 19,
       "event_title": "SMHS Senior A Boys Basketball Home Tournament",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2026-02-05",
@@ -44,7 +63,7 @@
     {
       "id": 18,
       "event_title": "SMHS Christmas Concert",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2025-12-09",
