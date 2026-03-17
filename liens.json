@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-03-14T21:18:25.330Z",
+  "generated_at": "2026-03-17T16:28:23.352Z",
+  "source": "SMHS Livestream Editor",
+  "count": 21,
   "events": [
     {
       "id": 21,
-      "event_title": "Prince Albert Rotary Club Model UN Assembly - Mon., Mar 16, 2026",
+      "event_title": "Prince Albert Rotary Club Model UN Assembly",
       "current": true,
       "days": [
         {
           "date": "2026-03-16",
           "links": {
             "CCHS Cafetorium": "https://www.youtube.com/watch?v=3fUDVW7Elco"
-          },
-          "label": "Monday, Mar 16, 2026"
+          }
         },
         {
           "date": "2026-03-17",
           "links": {
             "CCHS Cafetorium": "https://www.youtube.com/watch?v=FqzZtjBV5eI"
-          },
-          "label": "Tuesday, Mar 17, 2026"
+          }
         }
       ]
     },
