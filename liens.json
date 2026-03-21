@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T16:28:23.352Z",
+  "generated_at": "2026-03-21T23:06:48.857Z",
   "source": "SMHS Livestream Editor",
   "count": 21,
   "events": [
@@ -20,7 +20,8 @@
             "CCHS Cafetorium": "https://www.youtube.com/watch?v=FqzZtjBV5eI"
           }
         }
-      ]
+      ],
+      "tag": "SMHS-Ran Community Event"
     },
     {
       "id": 20,
