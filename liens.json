@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-21T23:16:10.196Z",
+  "generated_at": "2026-03-21T23:16:17.788Z",
   "source": "SMHS Livestream Editor",
   "count": 21,
   "events": [
     {
       "id": 21,
       "event_title": "Prince Albert Rotary Club Model UN Assembly",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2026-03-16",
