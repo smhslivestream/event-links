@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-03-21T23:10:42.328Z",
+  "updated_at": "2026-03-21T23:11:59.260Z",
   "events": [
+    {
+      "id": 23,
+      "event_title": "test",
+      "tag": "Non-SMHS",
+      "current": true,
+      "days": [
+        {
+          "date": "2026-03-22",
+          "links": {
+            "asdf": "asdf"
+          },
+          "label": "Sunday, Mar 22, 2026"
+        }
+      ]
+    },
     {
       "id": 22,
       "event_title": "test",
