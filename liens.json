@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-05-19T19:25:38.032Z",
+  "updated_at": "2026-05-19T19:26:30.206Z",
   "events": [
+    {
+      "id": 23,
+      "event_title": "SMHS June Awards Ceremony",
+      "current": true,
+      "days": [
+        {
+          "date": "2026-06-03",
+          "links": {
+            "Main Gym": "https://www.youtube.com/watch?v=oLdk-vP_Nw8"
+          },
+          "label": "Wednesday, Jun 3, 2026"
+        }
+      ]
+    },
     {
       "id": 22,
       "event_title": "École St. Mary Year-End Concert",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2026-05-27",
