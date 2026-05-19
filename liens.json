@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-19T19:27:21.308Z",
+  "generated_at": "2026-05-19T19:27:24.740Z",
   "source": "SMHS Livestream Editor",
   "count": 23,
   "events": [
     {
       "id": 23,
       "event_title": "SMHS 2026 June Awards Ceremony",
-      "current": false,
+      "current": true,
       "days": [
         {
           "date": "2026-06-03",
@@ -19,7 +19,7 @@
     {
       "id": 22,
       "event_title": "École St. Mary Year-End Concert",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2026-05-27",
