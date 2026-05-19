@@ -1,17 +1,18 @@
 {
-  "updated_at": "2026-05-19T19:26:30.206Z",
+  "generated_at": "2026-05-19T19:27:16.131Z",
+  "source": "SMHS Livestream Editor",
+  "count": 23,
   "events": [
     {
       "id": 23,
-      "event_title": "SMHS June Awards Ceremony",
+      "event_title": "SMHS 2026 June Awards Ceremony",
       "current": true,
       "days": [
         {
           "date": "2026-06-03",
           "links": {
             "Main Gym": "https://www.youtube.com/watch?v=oLdk-vP_Nw8"
-          },
-          "label": "Wednesday, Jun 3, 2026"
+          }
         }
       ]
     },
@@ -24,8 +25,7 @@
           "date": "2026-05-27",
           "links": {
             "Sacred Heart Cathedral": "https://www.youtube.com/watch?v=j6eEqHDJgcA"
-          },
-          "label": "Wednesday, May 27, 2026"
+          }
         }
       ]
     },
