@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-19T19:27:28.605Z",
+  "generated_at": "2026-05-28T23:08:03.359Z",
   "source": "SMHS Livestream Editor",
   "count": 23,
   "events": [
     {
       "id": 23,
       "event_title": "SMHS 2026 June Awards Ceremony",
-      "current": false,
+      "current": true,
       "days": [
         {
           "date": "2026-06-03",
@@ -14,7 +14,8 @@
             "Main Gym": "https://www.youtube.com/watch?v=oLdk-vP_Nw8"
           }
         }
-      ]
+      ],
+      "tag": "SMHS-Based"
     },
     {
       "id": 22,
