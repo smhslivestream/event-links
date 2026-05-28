@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T23:08:03.359Z",
+  "generated_at": "2026-05-28T23:08:11.994Z",
   "source": "SMHS Livestream Editor",
   "count": 23,
   "events": [
@@ -20,7 +20,7 @@
     {
       "id": 22,
       "event_title": "École St. Mary Year-End Concert",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2026-05-27",
@@ -28,7 +28,8 @@
             "Sacred Heart Cathedral": "https://www.youtube.com/watch?v=j6eEqHDJgcA"
           }
         }
-      ]
+      ],
+      "tag": "SMHS-Based"
     },
     {
       "id": 21,
