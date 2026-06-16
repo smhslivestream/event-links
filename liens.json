@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-28T23:08:11.994Z",
+  "generated_at": "2026-06-16T03:07:01.562Z",
   "source": "SMHS Livestream Editor",
   "count": 23,
   "events": [
     {
       "id": 23,
       "event_title": "SMHS 2026 June Awards Ceremony",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2026-06-03",
