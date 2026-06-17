@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T02:55:18.617Z",
+  "generated_at": "2026-06-17T02:57:08.017Z",
   "source": "SMHS Livestream Editor",
-  "count": 27,
+  "count": 26,
   "events": [
     {
       "id": 27,
@@ -41,20 +41,6 @@
           "links": {
             "Court 1": "https://youtu.be/OrpDKsQ_Gtg",
             "Court 2": "https://youtu.be/y_ZyWkruNTE"
-          }
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "event_title": "École SMHS Senior Boys Volleyball Tournament",
-      "tag": "SMHS-Based",
-      "current": false,
-      "days": [
-        {
-          "date": "2022-09-09",
-          "links": {
-            "Court 1": "https://youtu.be/-IglcUY-APQ"
           }
         }
       ]
