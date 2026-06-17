@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-06-17T02:48:11.997Z",
+  "updated_at": "2026-06-17T02:50:13.204Z",
   "events": [
+    {
+      "id": 25,
+      "event_title": "École SMHS Senior Boys Volleyball Tournament",
+      "tag": "SMHS-Based",
+      "current": true,
+      "days": [
+        {
+          "date": "2022-09-09",
+          "links": {
+            "Court 1": "https://youtu.be/-IglcUY-APQ"
+          },
+          "label": "Friday, Sep 9, 2022"
+        }
+      ]
+    },
     {
       "id": 24,
       "event_title": "SMHS Sr. Girls Volleyball Tournament",
