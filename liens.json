@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-06-23T16:52:07.629Z",
+  "updated_at": "2026-06-23T16:56:21.205Z",
   "events": [
+    {
+      "id": 29,
+      "event_title": "École St. Mary High School Grad 2025 Picture Session",
+      "current": true,
+      "days": [
+        {
+          "date": "2025-06-19",
+          "links": {
+            "Outside": "https://youtu.be/6hTZiObyjBw?si=f26sIdvniZDHwKK2"
+          },
+          "label": "Thursday, Jun 19, 2025"
+        }
+      ]
+    },
     {
       "id": 28,
       "event_title": "École St. Mary High School Grad 2024 Picture Session Video",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2024-06-19",
