@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-06-23T16:58:06.925Z",
+  "updated_at": "2026-09-11T17:31:07.502Z",
   "events": [
+    {
+      "id": 31,
+      "event_title": "SMHS Senior A Boys Tournament",
+      "current": true,
+      "days": [
+        {
+          "date": "2026-09-11",
+          "links": {
+            "Links on Hudl (permanent videos will be posted later)": "https://fan.hudl.com/can/sk/prince-albert/organization/66094/st-mary-high-school/schedule?date=2026-09-06T06%3A00%3A00.000Z&range=Week&s=U2NoZWR1bGVFbnRyeVB1YmxpY1N1bW1hcnk2YWEzMGFkNDk5MmZkNDIyY2UxMDBiMTA%3D&shared=true"
+          },
+          "label": "Friday, Sep 11, 2026"
+        }
+      ]
+    },
     {
       "id": 30,
       "event_title": "SMHS Grad 2026",
-      "current": true,
+      "current": false,
       "days": [
         {
           "date": "2026-06-24",
