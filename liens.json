@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-09-21T02:56:57.282Z",
+  "updated_at": "2026-09-21T03:00:10.467Z",
   "events": [
+    {
+      "id": 35,
+      "event_title": "Segment test",
+      "tag": "SMHS-Ran Community Event",
+      "current": false,
+      "days": [
+        {
+          "date": "2026-09-22",
+          "links": {
+            "Court 1 Gym": "www.hudl.com"
+          },
+          "label": "Tuesday, Sep 22, 2026",
+          "segments": {
+            "Court 1 Gym": [
+              {
+                "name": "9-6",
+                "url": "www.hudl.com"
+              },
+              {
+                "name": "999",
+                "url": "www.x.com"
+              }
+            ]
+          }
+        }
+      ]
+    },
     {
       "id": 34,
       "event_title": "Test for archive",
@@ -695,7 +722,7 @@
       "tag": "SMHS-Based"
     }
   ],
-  "count": 34,
+  "count": 35,
   "generated_at": "2026-09-21T02:56:57.282Z",
   "source": "SMHS Livestream Editor"
 }
