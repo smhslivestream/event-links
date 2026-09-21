@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-09-21T03:09:29.320Z",
+  "updated_at": "2026-09-21T03:09:40.393Z",
   "events": [
-    {
-      "id": 33,
-      "event_title": "test for archive",
-      "tag": "SMHS-Based",
-      "current": true,
-      "days": [
-        {
-          "date": "2026-09-19",
-          "links": {
-            "arc": "2"
-          },
-          "label": "Saturday, September 19, 2026"
-        }
-      ]
-    },
     {
       "id": 32,
       "event_title": "Test for current",
@@ -668,7 +653,7 @@
       "tag": "SMHS-Based"
     }
   ],
-  "count": 33,
-  "generated_at": "2026-09-21T03:09:29.320Z",
+  "count": 32,
+  "generated_at": "2026-09-21T03:09:40.393Z",
   "source": "SMHS Livestream Editor"
 }
