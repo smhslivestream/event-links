@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-09-21T03:09:40.393Z",
+  "updated_at": "2026-09-21T03:09:44.656Z",
   "events": [
-    {
-      "id": 32,
-      "event_title": "Test for current",
-      "tag": "SMHS-Based",
-      "current": true,
-      "days": [
-        {
-          "date": "2026-09-19",
-          "links": {
-            "as": "as"
-          },
-          "label": "Saturday, September 19, 2026"
-        }
-      ]
-    },
     {
       "id": 31,
       "event_title": "SMHS Senior A Boys Tournament",
@@ -653,7 +638,7 @@
       "tag": "SMHS-Based"
     }
   ],
-  "count": 32,
-  "generated_at": "2026-09-21T03:09:40.393Z",
+  "count": 31,
+  "generated_at": "2026-09-21T03:09:44.656Z",
   "source": "SMHS Livestream Editor"
 }
