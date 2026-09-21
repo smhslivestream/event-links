@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-09-21T03:02:48.381Z",
+  "updated_at": "2026-09-21T03:04:46.150Z",
   "events": [
+    {
+      "id": 36,
+      "event_title": "Link test",
+      "tag": "SMHS-Based",
+      "current": false,
+      "days": [
+        {
+          "date": "2026-09-20",
+          "links": {
+            "2": "22"
+          },
+          "label": "Sunday, Sep 20, 2026",
+          "segments": {
+            "2": [
+              {
+                "name": "1-A",
+                "url": "http://www.x.com"
+              }
+            ]
+          }
+        }
+      ]
+    },
     {
       "id": 35,
       "event_title": "Segment test",
@@ -722,7 +745,7 @@
       "tag": "SMHS-Based"
     }
   ],
-  "count": 35,
+  "count": 36,
   "generated_at": "2026-09-21T03:02:48.381Z",
   "source": "SMHS Livestream Editor"
 }
