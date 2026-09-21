@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T02:55:35.980Z",
+  "updated_at": "2026-09-21T02:56:57.282Z",
   "events": [
     {
       "id": 34,
@@ -12,7 +12,19 @@
           "links": {
             "test": "ast"
           },
-          "label": "Sunday, Sep 20, 2026"
+          "label": "Sunday, September 20, 2026",
+          "segments": {
+            "test": [
+              {
+                "name": "Test",
+                "url": "www.test"
+              },
+              {
+                "name": "Test 2",
+                "url": "www. test 2"
+              }
+            ]
+          }
         }
       ]
     },
@@ -27,7 +39,7 @@
           "links": {
             "arc": "2"
           },
-          "label": "Saturday, Sep 19, 2026"
+          "label": "Saturday, September 19, 2026"
         }
       ]
     },
@@ -42,7 +54,7 @@
           "links": {
             "as": "as"
           },
-          "label": "Saturday, Sep 19, 2026"
+          "label": "Saturday, September 19, 2026"
         }
       ]
     },
@@ -684,6 +696,6 @@
     }
   ],
   "count": 34,
-  "generated_at": "2026-09-19T03:07:40.380Z",
+  "generated_at": "2026-09-21T02:56:57.282Z",
   "source": "SMHS Livestream Editor"
 }
