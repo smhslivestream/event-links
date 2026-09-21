@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T03:00:10.467Z",
+  "updated_at": "2026-09-21T03:02:48.381Z",
   "events": [
     {
       "id": 35,
@@ -12,12 +12,12 @@
           "links": {
             "Court 1 Gym": "www.hudl.com"
           },
-          "label": "Tuesday, Sep 22, 2026",
+          "label": "Tuesday, September 22, 2026",
           "segments": {
             "Court 1 Gym": [
               {
                 "name": "9-6",
-                "url": "www.hudl.com"
+                "url": "http://www.hudl.com"
               },
               {
                 "name": "999",
@@ -723,6 +723,6 @@
     }
   ],
   "count": 35,
-  "generated_at": "2026-09-21T02:56:57.282Z",
+  "generated_at": "2026-09-21T03:02:48.381Z",
   "source": "SMHS Livestream Editor"
 }
