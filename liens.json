@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-21T03:09:44.656Z",
+  "updated_at": "2026-09-25T22:19:50.980Z",
   "events": [
+    {
+      "id": 32,
+      "event_title": "Senior Girl Volleyball Tournament",
+      "tag": "SMHS-Based",
+      "current": true,
+      "days": [
+        {
+          "date": "2026-09-25",
+          "links": {
+            "Big Gym": "https://fan.hudl.com/can/sk/prince-albert/organization/66094/st-mary-high-school/watch?ib=4518067"
+          },
+          "label": "Friday, Sep 25, 2026"
+        },
+        {
+          "date": "2026-09-26",
+          "links": {
+            "Big Gym": "https://fan.hudl.com/can/sk/prince-albert/organization/66094/st-mary-high-school/watch?ib=4518160"
+          },
+          "label": "Saturday, Sep 26, 2026"
+        }
+      ]
+    },
     {
       "id": 31,
       "event_title": "SMHS Senior A Boys Tournament",
@@ -638,7 +660,7 @@
       "tag": "SMHS-Based"
     }
   ],
-  "count": 31,
+  "count": 32,
   "generated_at": "2026-09-21T03:09:44.656Z",
   "source": "SMHS Livestream Editor"
 }
