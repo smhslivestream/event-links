@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T22:25:39.613Z",
+  "updated_at": "2026-10-02T20:45:14.638Z",
   "events": [
+    {
+      "id": 33,
+      "event_title": "SMHS Junior A Boys Tournament",
+      "tag": "SMHS-Based",
+      "current": true,
+      "days": [
+        {
+          "date": "2026-10-02",
+          "links": {
+            "Court 1": "https://fan.hudl.com/can/sk/prince-albert/organization/66094/st-mary-high-school/watch?b=QnJvYWRjYXN0NDU2MjI3NA%3D%3D&shared=true",
+            "Court 2": "https://fan.hudl.com/can/sk/prince-albert/organization/66094/st-mary-high-school/watch?b=QnJvYWRjYXN0NDU2MjI3Mw%3D%3D&shared=true"
+          },
+          "label": "Friday, Oct 2, 2026"
+        }
+      ]
+    },
     {
       "id": 32,
       "event_title": "Senior Girl Volleyball Tournament",
@@ -660,7 +676,7 @@
       "tag": "SMHS-Based"
     }
   ],
-  "count": 32,
+  "count": 33,
   "generated_at": "2026-09-25T22:25:39.613Z",
   "source": "SMHS Livestream Editor"
 }
